@@ -1,7 +1,7 @@
-﻿$users = get-content userlist2.txt
+﻿$users = get-content SD-458752.txt
 
 foreach($user in $users) {
 
-get-aduser -identity $user | select Name,SamAccountName,Enabled | out-file activeornot.txt -append
+get-aduser -identity $user | select Name,SamAccountName,Enabled 
 
 }

@@ -1,0 +1,70 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 19, 2023 1:18:50 AM
+   Source : T:\Shares\DataExchangeSFTP_Prod\CIOX_Prod\FromDDDS\
+     Dest : T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DA /COPY:DAT /MOV /MINAGE:30 /R:3 /W:10 
+
+------------------------------------------------------------------------------
+
+	                 318	T:\Shares\DataExchangeSFTP_Prod\CIOX_Prod\FromDDDS\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\2016\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\2017\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\2018\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\2019\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\CIOX\FromDDDS\2020\
+	  *EXTRA File 		   32696	20220302_HEDIS_Anthem_HOSTED_OOAChaseList.txt
+	  *EXTRA File 		   35079	20220303_HEDIS_Anthem_HOSTED_OOAChaseList.txt
+	  *EXTRA File 		   29195	20230303_HEDIS_Anthem_HOSTED_OOAChaseList.txt
+	  *EXTRA File 		  40.8 m	BCBSMRDST20200902Supplemental.txt
+	  *EXTRA File 		    2857	BCBSM_CIOX_Host OOA_09282020 File.txt
+	  *EXTRA File 		  23.1 m	BCBSM_MA_NLP_Results_202202041916.txt
+	  *EXTRA File 		   4.6 m	BCBSM_MA_NLP_Results_Manifest_202202041922.txt
+	  *EXTRA File 		   1.4 m	BCBSM_MA_second_pass_20200722.txt
+	  *EXTRA File 		  905643	BCBSM_MA_second_pass_20200909.txt
+	  *EXTRA File 		   2.4 m	BCBSM_MA_second_pass_20200930.txt
+	  *EXTRA File 		  685711	BCBSM_MA_second_pass_20201014.txt
+	  *EXTRA File 		   2.7 m	BCBSM_MA_second_pass_20201105.txt
+	  *EXTRA File 		   2.9 m	BCBSM_MA_second_pass_20201202.txt
+	  *EXTRA File 		   3.7 m	BCBSM_MA_second_pass_20201221.txt
+	  *EXTRA File 		  11.1 m	BCNRDST20200902Supplemental.txt
+	  *EXTRA File 		    1319	ChartDetailExport_OAA_10132021063135.txt
+	  *EXTRA File 		   13404	Ciox_CPL_20230221_WithGroupTINSample.txt
+	  *EXTRA File 		 194.1 m	Ciox_Detail_10132021050831.txt
+	  *EXTRA File 		   4.8 m	COMM_BCBSM_Phase1_ChaseList_CIOX_20201211.txt
+	  *EXTRA File 		   4.0 m	COMM_BCN_Phase1_ChaseList_CIOX_20201211.txt
+	  *EXTRA File 		    3174	DailyCancelledChartsForTessellate_10132021052033.xlsx
+	  *EXTRA File 		   8.7 m	ECS_Tessellate_1108-0245.zip
+	  *EXTRA File 		   4.5 g	ECS_Tessellate_1108-0303.zip
+	  *EXTRA File 		   9.6 g	ECS_Tessellate_1119-0341.zip
+	  *EXTRA File 		   4.2 g	ECS_Tessellate_1221-0249.zip
+	  *EXTRA File 		 335.6 m	MA_BCBSM_ChaseList_RETQTR3202008051030SupplementalWithZipVendor.txt
+	  *EXTRA File 		  106963	MA_BCBSM_OOA_ChaseList_20201202.txt
+	  *EXTRA File 		  55.1 m	MA_BCBSM_Phase 2_ChaseList_CIOX_20201001.txt
+	  *EXTRA File 		  55.1 m	MA_BCBSM_Phase 2_ChaseList_CIOX_20201006.txt
+	  *EXTRA File 		  77.9 m	MA_BCBSM_Phase 2_ChaseSupplemental_CIOX_20201102.txt
+	  *EXTRA File 		  24.6 m	MA_BCBSM_Phase 3_ChaseList_CIOX_20201118.txt
+	  *EXTRA File 		  13.1 m	MA_BCBSM_RDST_ChaseSupplemental_CIOX_20200909.txt
+	  *EXTRA File 		 136.2 m	MA_BCN_ChaseList_RETQTR3202008051440SupplementalWithZipVendor.txt
+	  *EXTRA File 		  26.9 m	MA_BCN_Phase 2_ChaseList_CIOX_20201001.txt
+	  *EXTRA File 		  30.0 m	MA_BCN_Phase 2_ChaseSupplemental_CIOX_20201102.txt
+	  *EXTRA File 		  15.4 m	MA_BCN_Phase 3_ChaseList_CIOX_20201118.txt
+	  *EXTRA File 		   3.5 m	MA_BCN_RDST_ChaseSupplemental_CIOX_20200909.txt
+	  *EXTRA File 		  59.0 m	PNP26 by ORG 10072020 Response.txt
+	  *EXTRA File 		   32256	Thumbs.db
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         5
+   Files :       318         0       318         0         0        39
+   Bytes :   9.364 g         0   9.364 g         0         0  19.503 g
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, July 19, 2023 1:18:50 AM
+

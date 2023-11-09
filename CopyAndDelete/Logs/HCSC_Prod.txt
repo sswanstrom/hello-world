@@ -1,0 +1,1532 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 19, 2023 1:18:50 AM
+   Source : T:\Shares\DataExchangeSFTP_Prod\HCSC_Prod\FromTessellate\
+     Dest : T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DA /COPY:DAT /MOV /MINAGE:30 /R:3 /W:10 
+
+------------------------------------------------------------------------------
+
+	                  34	T:\Shares\DataExchangeSFTP_Prod\HCSC_Prod\FromTessellate\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\2017 files\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\201912Files\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\9778\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\Advantasure HCSC Teams Collaboration Meeting-20230118_140712-Meeting Recording.mp4_files\
+	*EXTRA Dir        -1	T:\Shares\DataExchangeArchive_Prod\HCSC\FromTessellate\DATOPS-21678\
+	  *EXTRA File 		   18819	021919 HCSC Data Entered Jan 2019.xlsx
+	  *EXTRA File 		   4.7 m	12072018 Review.zip
+	  *EXTRA File 		  442458	12122018 FOBT Record.zip
+	  *EXTRA File 		   3.2 m	2020 PSV Audit records.zip
+	  *EXTRA File 		  284829	804079453 Vanfossan.J.pdf
+	  *EXTRA File 		  872116	ABCBS_MemberRoster_201912_20191219_ALL.xlsx
+	  *EXTRA File 		  457096	Advantasure HCSC Teams Collaboration Meeting-20230118_140712-Meeting Recording.mp4.html
+	  *EXTRA File 		   50921	Advantasure_AlertActivityandBonus_HCSC_April2023.xlsx
+	  *EXTRA File 		   86700	Advantasure_AlertActivityandBonus_HCSC_August2022.xlsx
+	  *EXTRA File 		   80202	Advantasure_AlertActivityandBonus_HCSC_Commercial_December2021.xlsx
+	  *EXTRA File 		   80308	Advantasure_AlertActivityandBonus_HCSC_Commercial_November2021.xlsx
+	  *EXTRA File 		   79142	Advantasure_AlertActivityandBonus_HCSC_Commercial_October2021.xlsx
+	  *EXTRA File 		   60019	Advantasure_AlertActivityandBonus_HCSC_December2022.xlsx
+	  *EXTRA File 		   53055	Advantasure_AlertActivityandBonus_HCSC_February2023.xlsx
+	  *EXTRA File 		   52443	Advantasure_AlertActivityandBonus_HCSC_January2023.xlsx
+	  *EXTRA File 		   59416	Advantasure_AlertActivityandBonus_HCSC_July2022.xlsx
+	  *EXTRA File 		   62504	Advantasure_AlertActivityandBonus_HCSC_June2022.xlsx
+	  *EXTRA File 		   50600	Advantasure_AlertActivityandBonus_HCSC_March2023.xlsx
+	  *EXTRA File 		   62769	Advantasure_AlertActivityandBonus_HCSC_May2022.xlsx
+	  *EXTRA File 		   51277	Advantasure_AlertActivityandBonus_HCSC_May2023.xlsx
+	  *EXTRA File 		   62309	Advantasure_AlertActivityandBonus_HCSC_November2022.xlsx
+	  *EXTRA File 		   59984	Advantasure_AlertActivityandBonus_HCSC_October2022.xlsx
+	  *EXTRA File 		   60320	Advantasure_AlertActivityandBonus_HCSC_September2022.xlsx
+	  *EXTRA File 		   26210	Advantasure_CDIResponse_HCSC_April2020.xlsx
+	  *EXTRA File 		   26544	Advantasure_CDIResponse_HCSC_April2023.xlsx
+	  *EXTRA File 		   30257	Advantasure_CDIResponse_HCSC_August2022.xlsx
+	  *EXTRA File 		   45202	Advantasure_CDIResponse_HCSC_Commercial_December2021.xlsx
+	  *EXTRA File 		   45282	Advantasure_CDIResponse_HCSC_Commercial_November2021.xlsx
+	  *EXTRA File 		   45107	Advantasure_CDIResponse_HCSC_Commercial_October2021.xlsx
+	  *EXTRA File 		   30414	Advantasure_CDIResponse_HCSC_December2022.xlsx
+	  *EXTRA File 		   27315	Advantasure_CDIResponse_HCSC_February2023.xlsx
+	  *EXTRA File 		   25811	Advantasure_CDIResponse_HCSC_January2023.xlsx
+	  *EXTRA File 		   30185	Advantasure_CDIResponse_HCSC_July2022.xlsx
+	  *EXTRA File 		   21707	Advantasure_CDIResponse_HCSC_June2020.xlsx
+	  *EXTRA File 		   30470	Advantasure_CDIResponse_HCSC_June2022.xlsx
+	  *EXTRA File 		   26405	Advantasure_CDIResponse_HCSC_March2023.xlsx
+	  *EXTRA File 		   30562	Advantasure_CDIResponse_HCSC_May2022.xlsx
+	  *EXTRA File 		   26329	Advantasure_CDIResponse_HCSC_May2023.xlsx
+	  *EXTRA File 		   30503	Advantasure_CDIResponse_HCSC_November2022.xlsx
+	  *EXTRA File 		   30409	Advantasure_CDIResponse_HCSC_October2022.xlsx
+	  *EXTRA File 		   30554	Advantasure_CDIResponse_HCSC_September2022.xlsx
+	  *EXTRA File 		  604857	Advantasure_HCSC Reconciliation of Exports_20190123.xlsx
+	  *EXTRA File 		  382392	Advantasure_HCSC_PECMemberBilling_November2020_INV1000125.xlsx
+	  *EXTRA File 		  337761	Advantasure_HCSC_PEC_201902.xlsx
+	  *EXTRA File 		  270019	Advantasure_HCSC_PEC_201903_INV66297.xlsx
+	  *EXTRA File 		  263123	Advantasure_HCSC_PEC_201904_INV66308.xlsx
+	  *EXTRA File 		  276507	Advantasure_HCSC_PEC_201905_INV66309.xlsx
+	  *EXTRA File 		   18507	Advantasure_HCSC_PEC_201909_Credit Adjustment_INV66858.xlsx
+	  *EXTRA File 		   8.7 m	Advantasure_HCSC_PEC_201909_INV66694.xlsx
+	  *EXTRA File 		   8.7 m	Advantasure_HCSC_PEC_201910_INV66858.xlsx
+	  *EXTRA File 		   8.7 m	Advantasure_HCSC_PEC_201911_INV66859.xlsx
+	  *EXTRA File 		  338147	Advantasure_HCSC_PEC_April2020_INV67344.xlsx
+	  *EXTRA File 		   8.7 m	Advantasure_HCSC_PEC_August2019_INV66604.xlsx
+	  *EXTRA File 		   8.7 m	Advantasure_HCSC_PEC_December2019_INV66984.xlsx
+	  *EXTRA File 		  355242	Advantasure_HCSC_PEC_December2020_INV1000211.xlsx
+	  *EXTRA File 		  986736	Advantasure_HCSC_PEC_February2021_INV1000371.xlsx
+	  *EXTRA File 		   8.6 m	Advantasure_HCSC_PEC_January2020_INV67095.xlsx
+	  *EXTRA File 		  933576	Advantasure_HCSC_PEC_January2021_INV100352.xlsx
+	  *EXTRA File 		  408613	Advantasure_HCSC_PEC_July 2020_INV6755.xlsx
+	  *EXTRA File 		   5.5 m	Advantasure_HCSC_PEC_July2019_INV66546.xlsx
+	  *EXTRA File 		  338736	Advantasure_HCSC_PEC_June 2020_INV67492.xlsx
+	  *EXTRA File 		   5.6 m	Advantasure_HCSC_PEC_June2019_INV66545.xlsx
+	  *EXTRA File 		  343676	Advantasure_HCSC_PEC_May2020_INV67413.xlsx
+	  *EXTRA File 		   8.6 m	Advantasure_PEC_HCSC_February2020_INV67155.xlsx
+	  *EXTRA File 		  397430	Advantasure_PEC_HCSC_March2020_INV67280.xlsx
+	  *EXTRA File 		   48900	Advantasure_QueryActivity_HCSC_April2023.xlsx
+	  *EXTRA File 		   41578	Advantasure_QueryActivity_HCSC_August2022.xlsx
+	  *EXTRA File 		   41913	Advantasure_QueryActivity_HCSC_December2022.xlsx
+	  *EXTRA File 		   49990	Advantasure_QueryActivity_HCSC_February2023.xlsx
+	  *EXTRA File 		   47935	Advantasure_QueryActivity_HCSC_January2023.xlsx
+	  *EXTRA File 		   41794	Advantasure_QueryActivity_HCSC_July2022.xlsx
+	  *EXTRA File 		   42214	Advantasure_QueryActivity_HCSC_June2022.xlsx
+	  *EXTRA File 		   48659	Advantasure_QueryActivity_HCSC_March2023.xlsx
+	  *EXTRA File 		   42495	Advantasure_QueryActivity_HCSC_May2022.xlsx
+	  *EXTRA File 		   48433	Advantasure_QueryActivity_HCSC_May2023.xlsx
+	  *EXTRA File 		   41898	Advantasure_QueryActivity_HCSC_November2022.xlsx
+	  *EXTRA File 		   42056	Advantasure_QueryActivity_HCSC_October2022.xlsx
+	  *EXTRA File 		   42116	Advantasure_QueryActivity_HCSC_September2022.xlsx
+	  *EXTRA File 		  250650	Advantasure_RevenueGapsMemberDetail_HCSC_April2020.xlsx
+	  *EXTRA File 		  462961	Advantasure_RevenueGapsMemberDetail_HCSC_April2021.xlsx
+	  *EXTRA File 		  655472	Advantasure_RevenueGapsMemberDetail_HCSC_April2022.xlsx
+	  *EXTRA File 		   1.0 m	Advantasure_RevenueGapsMemberDetail_HCSC_April2023 - with Summary.xlsx
+	  *EXTRA File 		  255704	Advantasure_RevenueGapsMemberDetail_HCSC_August2020.xlsx
+	  *EXTRA File 		  628490	Advantasure_RevenueGapsMemberDetail_HCSC_August2021.xlsx
+	  *EXTRA File 		  688693	Advantasure_RevenueGapsMemberDetail_HCSC_August2022.xlsx
+	  *EXTRA File 		  303234	Advantasure_RevenueGapsMemberDetail_HCSC_December2020.xlsx
+	  *EXTRA File 		  648429	Advantasure_RevenueGapsMemberDetail_HCSC_December2021.xlsx
+	  *EXTRA File 		   1.2 m	Advantasure_RevenueGapsMemberDetail_HCSC_December2022 - with Summary.xlsx
+	  *EXTRA File 		   1.0 m	Advantasure_RevenueGapsMemberDetail_HCSC_February2023.xlsx
+	  *EXTRA File 		   1.5 m	Advantasure_RevenueGapsMemberDetail_HCSC_January2022.xlsx
+	  *EXTRA File 		  951796	Advantasure_RevenueGapsMemberDetail_HCSC_January2023 - with Summary.xlsx
+	  *EXTRA File 		  255393	Advantasure_RevenueGapsMemberDetail_HCSC_July2020.xlsx
+	  *EXTRA File 		  731093	Advantasure_RevenueGapsMemberDetail_HCSC_July2022.xlsx
+	  *EXTRA File 		  250055	Advantasure_RevenueGapsMemberDetail_HCSC_June2020.xlsx
+	  *EXTRA File 		  638255	Advantasure_RevenueGapsMemberDetail_HCSC_June2022.xlsx
+	  *EXTRA File 		   1.0 m	Advantasure_RevenueGapsMemberDetail_HCSC_March2023 - with Summary.xlsx
+	  *EXTRA File 		  256033	Advantasure_RevenueGapsMemberDetail_HCSC_May2020.xlsx
+	  *EXTRA File 		  655468	Advantasure_RevenueGapsMemberDetail_HCSC_May2022.xlsx
+	  *EXTRA File 		   1.0 m	Advantasure_RevenueGapsMemberDetail_HCSC_May2023 - with Summary.xlsx
+	  *EXTRA File 		  341451	Advantasure_RevenueGapsMemberDetail_HCSC_November2020.xlsx
+	  *EXTRA File 		  624618	Advantasure_RevenueGapsMemberDetail_HCSC_November2021.xlsx
+	  *EXTRA File 		   1.2 m	Advantasure_RevenueGapsMemberDetail_HCSC_November2022 - with Summary.xlsx
+	  *EXTRA File 		  201640	Advantasure_RevenueGapsMemberDetail_HCSC_October2019.xlsx
+	  *EXTRA File 		  287046	Advantasure_RevenueGapsMemberDetail_HCSC_October2020.xlsx
+	  *EXTRA File 		  624618	Advantasure_RevenueGapsMemberDetail_HCSC_October2021.xlsx
+	  *EXTRA File 		   1.3 m	Advantasure_RevenueGapsMemberDetail_HCSC_October2022 - with Summary.xlsx
+	  *EXTRA File 		   1.4 m	Advantasure_RevenueGapsMemberDetail_HCSC_September2022 - with Summary.xlsx
+	  *EXTRA File 		  713251	Advantasure_RevenueGapsMemberDetail_HCSC_September2022.xlsx
+	  *EXTRA File 		   96484	Advantasure_StarAlertActivity_HCSC_April2020.xlsx
+	  *EXTRA File 		  100638	Advantasure_StarAlertActivity_HCSC_April2021.xlsx
+	  *EXTRA File 		   94895	Advantasure_StarAlertActivity_HCSC_April2022.xlsx
+	  *EXTRA File 		   40943	Advantasure_StarAlertActivity_HCSC_April2023.xlsx
+	  *EXTRA File 		   92957	Advantasure_StarAlertActivity_HCSC_August2020.xlsx
+	  *EXTRA File 		  102235	Advantasure_StarAlertActivity_HCSC_August2021-revised.xlsx
+	  *EXTRA File 		   94767	Advantasure_StarAlertActivity_HCSC_August2022.xlsx
+	  *EXTRA File 		   93237	Advantasure_StarAlertActivity_HCSC_December2019 v1.xlsx
+	  *EXTRA File 		   97192	Advantasure_StarAlertActivity_HCSC_December2019.xlsx
+	  *EXTRA File 		   95467	Advantasure_StarAlertActivity_HCSC_December2020.xlsx
+	  *EXTRA File 		   97593	Advantasure_StarAlertActivity_HCSC_December2021.xlsx
+	  *EXTRA File 		   95224	Advantasure_StarAlertActivity_HCSC_December2022.xlsx
+	  *EXTRA File 		   44026	Advantasure_StarAlertActivity_HCSC_February2023.xlsx
+	  *EXTRA File 		   41041	Advantasure_StarAlertActivity_HCSC_January2023.xlsx
+	  *EXTRA File 		   92678	Advantasure_StarAlertActivity_HCSC_July2020.xlsx
+	  *EXTRA File 		   94651	Advantasure_StarAlertActivity_HCSC_July2022.xlsx
+	  *EXTRA File 		   93276	Advantasure_StarAlertActivity_HCSC_June2020.xlsx
+	  *EXTRA File 		   95057	Advantasure_StarAlertActivity_HCSC_June2022.xlsx
+	  *EXTRA File 		   40750	Advantasure_StarAlertActivity_HCSC_March2023.xlsx
+	  *EXTRA File 		   97768	Advantasure_StarAlertActivity_HCSC_May2020.xlsx
+	  *EXTRA File 		   94965	Advantasure_StarAlertActivity_HCSC_May2022.xlsx
+	  *EXTRA File 		   40983	Advantasure_StarAlertActivity_HCSC_May2023.xlsx
+	  *EXTRA File 		   96407	Advantasure_StarAlertActivity_HCSC_November2019.xlsx
+	  *EXTRA File 		   95390	Advantasure_StarAlertActivity_HCSC_November2020.xlsx
+	  *EXTRA File 		   95860	Advantasure_StarAlertActivity_HCSC_November2022.xlsx
+	  *EXTRA File 		   96164	Advantasure_StarAlertActivity_HCSC_October2019.xlsx
+	  *EXTRA File 		   95076	Advantasure_StarAlertActivity_HCSC_October2020.xlsx
+	  *EXTRA File 		  104997	Advantasure_StarAlertActivity_HCSC_October2021.xlsx
+	  *EXTRA File 		   95579	Advantasure_StarAlertActivity_HCSC_October2022.xlsx
+	  *EXTRA File 		   93443	Advantasure_StarAlertActivity_HCSC_September2020.xlsx
+	  *EXTRA File 		  102831	Advantasure_StarAlertActivity_HCSC_September2021.xlsx
+	  *EXTRA File 		   95449	Advantasure_StarAlertActivity_HCSC_September2022.xlsx
+	  *EXTRA File 		   26691	Advantasure_StarMemberDetail_HCSC_April2020.xlsx
+	  *EXTRA File 		   15691	Advantasure_StarMemberDetail_HCSC_April2021.xlsx
+	  *EXTRA File 		   17197	Advantasure_StarMemberDetail_HCSC_April2022.xlsx
+	  *EXTRA File 		   11253	Advantasure_StarMemberDetail_HCSC_April2023.xlsx
+	  *EXTRA File 		   69473	Advantasure_StarMemberDetail_HCSC_August2020.xlsx
+	  *EXTRA File 		   47606	Advantasure_StarMemberDetail_HCSC_August2021.xlsx
+	  *EXTRA File 		   43744	Advantasure_StarMemberDetail_HCSC_August2022.xlsx
+	  *EXTRA File 		   94640	Advantasure_StarMemberDetail_HCSC_December2019 v1.xlsx
+	  *EXTRA File 		  103301	Advantasure_StarMemberDetail_HCSC_December2019.xlsx
+	  *EXTRA File 		   87889	Advantasure_StarMemberDetail_HCSC_December2020.xlsx
+	  *EXTRA File 		   78226	Advantasure_StarMemberDetail_HCSC_December2021.xlsx
+	  *EXTRA File 		   75868	Advantasure_StarMemberDetail_HCSC_December2022.xlsx
+	  *EXTRA File 		   11257	Advantasure_StarMemberDetail_HCSC_February2023.xlsx
+	  *EXTRA File 		   12078	Advantasure_StarMemberDetail_HCSC_January2023.xlsx
+	  *EXTRA File 		   38880	Advantasure_StarMemberDetail_HCSC_July2020.xlsx
+	  *EXTRA File 		   30932	Advantasure_StarMemberDetail_HCSC_July2022.xlsx
+	  *EXTRA File 		   32780	Advantasure_StarMemberDetail_HCSC_June2020.xlsx
+	  *EXTRA File 		   22032	Advantasure_StarMemberDetail_HCSC_June2022.xlsx
+	  *EXTRA File 		   11256	Advantasure_StarMemberDetail_HCSC_March2023.xlsx
+	  *EXTRA File 		   31563	Advantasure_StarMemberDetail_HCSC_May2020.xlsx
+	  *EXTRA File 		   17121	Advantasure_StarMemberDetail_HCSC_May2022.xlsx
+	  *EXTRA File 		   11250	Advantasure_StarMemberDetail_HCSC_May2023.xlsx
+	  *EXTRA File 		   87903	Advantasure_StarMemberDetail_HCSC_November2019.xlsx
+	  *EXTRA File 		   72267	Advantasure_StarMemberDetail_HCSC_November2020.xlsx
+	  *EXTRA File 		   74361	Advantasure_StarMemberDetail_HCSC_November2022.xlsx
+	  *EXTRA File 		   81321	Advantasure_StarMemberDetail_HCSC_October2019.xlsx
+	  *EXTRA File 		   69117	Advantasure_StarMemberDetail_HCSC_October2020.xlsx
+	  *EXTRA File 		   65984	Advantasure_StarMemberDetail_HCSC_October2021.xlsx
+	  *EXTRA File 		   64138	Advantasure_StarMemberDetail_HCSC_October2022.xlsx
+	  *EXTRA File 		   66517	Advantasure_StarMemberDetail_HCSC_September2019.xlsx
+	  *EXTRA File 		   52442	Advantasure_StarMemberDetail_HCSC_September2020.xlsx
+	  *EXTRA File 		   55190	Advantasure_StarMemberDetail_HCSC_September2021.xlsx
+	  *EXTRA File 		   51628	Advantasure_StarMemberDetail_HCSC_September2022.xlsx
+	  *EXTRA File 		     368	Advantasure_to_HCSC_HEDIS_BioLabs_20190501.ctl
+	  *EXTRA File 		  349896	Advantasure_to_HCSC_HEDIS_BioLabs_20190501.txt
+	  *EXTRA File 		     366	Advantasure_to_HCSC_HEDIS_BioLabs_20190801.ctl
+	  *EXTRA File 		   46435	Advantasure_to_HCSC_HEDIS_BioLabs_20190801.txt
+	  *EXTRA File 		     364	Advantasure_to_HCSC_HEDIS_BioLabs_20190901.ctl
+	  *EXTRA File 		   11702	Advantasure_to_HCSC_HEDIS_BioLabs_20190901.txt
+	  *EXTRA File 		     366	Advantasure_to_HCSC_HEDIS_BioLabs_20191001.ctl
+	  *EXTRA File 		   58328	Advantasure_to_HCSC_HEDIS_BioLabs_20191001.txt
+	  *EXTRA File 		     366	Advantasure_to_HCSC_HEDIS_BioLabs_20191101.ctl
+	  *EXTRA File 		   67194	Advantasure_to_HCSC_HEDIS_BioLabs_20191101.txt
+	  *EXTRA File 		     364	Advantasure_to_HCSC_HEDIS_BioLabs_20191121.ctl
+	  *EXTRA File 		   14878	Advantasure_to_HCSC_HEDIS_BioLabs_20191121.txt
+	  *EXTRA File 		   12419	Advantasure_to_HCSC_HEDIS_BioLabs_20191126.txt
+	  *EXTRA File 		     366	Advantasure_to_HCSC_HEDIS_BioLabs_20201016.ctl
+	  *EXTRA File 		   66814	Advantasure_to_HCSC_HEDIS_BioLabs_20201016.txt
+	  *EXTRA File 		   23105	Advantasure_YTD_ProviderIncentive_HCSC_April2020.xlsx
+	  *EXTRA File 		   23981	Advantasure_YTD_ProviderIncentive_HCSC_April2021.xlsx
+	  *EXTRA File 		   25144	Advantasure_YTD_ProviderIncentive_HCSC_April2022.xlsx
+	  *EXTRA File 		   22715	Advantasure_YTD_ProviderIncentive_HCSC_April2023.xlsx
+	  *EXTRA File 		   39478	Advantasure_YTD_ProviderIncentive_HCSC_August2019.xlsx
+	  *EXTRA File 		   40199	Advantasure_YTD_ProviderIncentive_HCSC_August2021.xlsx
+	  *EXTRA File 		   39763	Advantasure_YTD_ProviderIncentive_HCSC_August2022.xlsx
+	  *EXTRA File 		   44220	Advantasure_YTD_ProviderIncentive_HCSC_December2018.xlsx
+	  *EXTRA File 		   47674	Advantasure_YTD_ProviderIncentive_HCSC_December2019.xlsx
+	  *EXTRA File 		   38608	Advantasure_YTD_ProviderIncentive_HCSC_December2020.xlsx
+	  *EXTRA File 		   53992	Advantasure_YTD_ProviderIncentive_HCSC_December2021.xlsx
+	  *EXTRA File 		   45343	Advantasure_YTD_ProviderIncentive_HCSC_December2022.xlsx
+	  *EXTRA File 		   24496	Advantasure_YTD_ProviderIncentive_HCSC_February2019.xlsx
+	  *EXTRA File 		   15040	Advantasure_YTD_ProviderIncentive_HCSC_February2020.xlsx
+	  *EXTRA File 		   18553	Advantasure_YTD_ProviderIncentive_HCSC_February2023.xlsx
+	  *EXTRA File 		   18825	Advantasure_YTD_ProviderIncentive_HCSC_January2020.xlsx
+	  *EXTRA File 		   11933	Advantasure_YTD_ProviderIncentive_HCSC_January2022.xlsx
+	  *EXTRA File 		   15583	Advantasure_YTD_ProviderIncentive_HCSC_January2023.xlsx
+	  *EXTRA File 		   40954	Advantasure_YTD_ProviderIncentive_HCSC_July2019.xlsx
+	  *EXTRA File 		   24443	Advantasure_YTD_ProviderIncentive_HCSC_July2020.xlsx
+	  *EXTRA File 		   35842	Advantasure_YTD_ProviderIncentive_HCSC_July2022.xlsx
+	  *EXTRA File 		   38611	Advantasure_YTD_ProviderIncentive_HCSC_June2019.xlsx
+	  *EXTRA File 		   33059	Advantasure_YTD_ProviderIncentive_HCSC_June2022.xlsx
+	  *EXTRA File 		   29311	Advantasure_YTD_ProviderIncentive_HCSC_March2019.xlsx
+	  *EXTRA File 		   17891	Advantasure_YTD_ProviderIncentive_HCSC_March2021.xlsx
+	  *EXTRA File 		   19264	Advantasure_YTD_ProviderIncentive_HCSC_March2023.xlsx
+	  *EXTRA File 		   35998	Advantasure_YTD_ProviderIncentive_HCSC_May2019.xlsx
+	  *EXTRA File 		   25443	Advantasure_YTD_ProviderIncentive_HCSC_May2020.xlsx
+	  *EXTRA File 		   30104	Advantasure_YTD_ProviderIncentive_HCSC_May2022.xlsx
+	  *EXTRA File 		   26028	Advantasure_YTD_ProviderIncentive_HCSC_May2023.xlsx
+	  *EXTRA File 		   42877	Advantasure_YTD_ProviderIncentive_HCSC_November2018.xlsx
+	  *EXTRA File 		   36371	Advantasure_YTD_ProviderIncentive_HCSC_November2020.xlsx
+	  *EXTRA File 		   52217	Advantasure_YTD_ProviderIncentive_HCSC_November2021.xlsx
+	  *EXTRA File 		   44355	Advantasure_YTD_ProviderIncentive_HCSC_November2022.xlsx
+	  *EXTRA File 		   57136	Advantasure_YTD_ProviderIncentive_HCSC_October2019.xlsx
+	  *EXTRA File 		   34873	Advantasure_YTD_ProviderIncentive_HCSC_October2020.xlsx
+	  *EXTRA File 		   49202	Advantasure_YTD_ProviderIncentive_HCSC_October2021.xlsx
+	  *EXTRA File 		   42467	Advantasure_YTD_ProviderIncentive_HCSC_October2022.xlsx
+	  *EXTRA File 		   31438	Advantasure_YTD_ProviderIncentive_HCSC_September2020.xlsx
+	  *EXTRA File 		   41797	Advantasure_YTD_ProviderIncentive_HCSC_September2022.xlsx
+	  *EXTRA File 		  254672	Advantsure_HCSC_PEC_201901.xlsx
+	  *EXTRA File 		  17.7 m	BCBSM_DDDS_GAPSINCARE_202007.xlsx
+	  *EXTRA File 		   55661	BCBSNE_StarGaps_201907.txt
+	  *EXTRA File 		   10728	Commercial Schedule GFC.xlsx
+	  *EXTRA File 		   1.0 m	Family Med Partners of Santa Fe.pdf
+	  *EXTRA File 		     331	FFV.EQANESF.ADVANTASURE.20211019.090108.ctl
+	  *EXTRA File 		   52140	FFV.EQANESF.ADVANTASURE.20211019.090108.txt
+	  *EXTRA File 		     331	FFV.EQANESF.ADVANTASURE.20211030.090050.ctl
+	  *EXTRA File 		   49591	FFV.EQANESF.ADVANTASURE.20211030.090050.txt
+	  *EXTRA File 		     331	FFV.EQANESF.ADVANTASURE.20221116.090019.ctl
+	  *EXTRA File 		   48811	FFV.EQANESF.ADVANTASURE.20221116.090019.txt
+	  *EXTRA File 		     328	FFV.EQANESF.EQVAVSOT.20211101.090050.ctl
+	  *EXTRA File 		   47538	FFV.EQANESF.EQVAVSOT.20211101.090050.txt
+	  *EXTRA File 		   47924	FFV.EQANESF.EQVAVSOT.20221116.051111.txt
+	  *EXTRA File 		   87074	HCSC - 2018 and 2019 YTD Reporting.zip
+	  *EXTRA File 		  262547	HCSC 2018 DOS CDI Responses 20190501.xlsx
+	  *EXTRA File 		  542835	HCSC 2018 DOS CDI Responses 20190926.txt
+	  *EXTRA File 		  229448	HCSC 2019 DOS CDI Responses 20191028.xlsx
+	  *EXTRA File 		  251542	HCSC 2019 DOS CDI Responses Detail 20191122.xlsx
+	  *EXTRA File 		   84228	HCSC 2020 DOS CDI Responses Detail 202004.xlsx
+	  *EXTRA File 		  106954	HCSC 2020 DOS CDI Responses Detail 20200821.xlsx
+	  *EXTRA File 		  134725	HCSC 2020 DOS CDI Responses Detail 20200925.xlsx
+	  *EXTRA File 		  173362	HCSC 2020 DOS CDI Responses Detail 20201118.xlsx
+	  *EXTRA File 		  185326	HCSC 2020 DOS CDI Responses Detail 20201216.xlsx
+	  *EXTRA File 		  197124	HCSC 2020 DOS CDI Responses Detail 20201231.xlsx
+	  *EXTRA File 		  307768	HCSC 2021 DOS CDI Responses Detail 20210831.xlsx
+	  *EXTRA File 		  161508	HCSC 2021 DOS CDI Responses Detail 20220430.xlsx
+	  *EXTRA File 		  378310	HCSC 2021 DOS CDI Responses Detail 20221212.xlsx
+	  *EXTRA File 		  390138	HCSC 2022 DOS CDI Responses Detail December2022 20230113.xlsx
+	  *EXTRA File 		  167218	HCSC 2023 DOS CDI Responses Detail April2023 20230414.xlsx
+	  *EXTRA File 		   74495	HCSC 2023 DOS CDI Responses Detail February 2023 20230310.xlsx
+	  *EXTRA File 		   25922	HCSC 2023 DOS CDI Responses Detail January 2023 20230213.xlsx
+	  *EXTRA File 		  131161	HCSC 2023 DOS CDI Responses Detail March 2023 20230414.xlsx
+	  *EXTRA File 		  190033	HCSC 2023 DOS CDI Responses Detail May2023 20230613.xlsx
+	  *EXTRA File 		  411735	HCSC Advantasure_MA Comparison Details_Adv response 5.19.23.xlsx
+	  *EXTRA File 		  13.8 m	HCSC Audit FIles.zip
+	  *EXTRA File 		 192.2 m	HCSC Bozeman Great Falls.zip
+	  *EXTRA File 		  497255	HCSC December 2018 PEC Membership_Invoice Back-up.xlsx
+	  *EXTRA File 		  336669	HCSC Medical Records by Practice and Member Detail - Nov 1st 2018.xlsx
+	  *EXTRA File 		  317807	HCSC Medical Records by Practice and Member Detail - Oct 23rd.xlsx
+	  *EXTRA File 		   20879	HCSC Privacy Incident Report 22381.docx
+	  *EXTRA File 		   4.9 m	HCSC Review.zip
+	  *EXTRA File 		   3.6 m	HCSC Texas Address Rollup  20181024.xlsx
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20201218100616.ctl
+	  *EXTRA File 		    1990	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20201218100616.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20210108133142.ctl
+	  *EXTRA File 		     435	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20210108133142.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20210122105229.ctl
+	  *EXTRA File 		     440	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H0107_20210122105229.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3251_20210507143654.ctl
+	  *EXTRA File 		     447	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3251_20210507143654.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200514153710.ctl
+	  *EXTRA File 		     475	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200514153710.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200731124501.ctl
+	  *EXTRA File 		     439	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200731124501.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200821100317 - Copy.ctl
+	  *EXTRA File 		    1389	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200821100317 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200828110306.ctl
+	  *EXTRA File 		     741	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2019_H3979_20200828110306.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201120131600.ctl
+	  *EXTRA File 		     465	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201120131600.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201204130445.ctl
+	  *EXTRA File 		     754	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201204130445.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201218100627.ctl
+	  *EXTRA File 		    3499	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20201218100627.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210108133153.ctl
+	  *EXTRA File 		    3153	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210108133153.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210122105251.ctl
+	  *EXTRA File 		     441	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210122105251.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210219132717.ctl
+	  *EXTRA File 		     432	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H0107_20210219132717.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H3251_20201120131538.ctl
+	  *EXTRA File 		     436	HCSC.PROD.MAO.WIP0008.0B.TESS.I.CARE.ADD_2020_H3251_20201120131538.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200702143749.ctl
+	  *EXTRA File 		    1193	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200702143749.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200731124519.ctl
+	  *EXTRA File 		   17774	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200731124519.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200821100355 - Copy.ctl
+	  *EXTRA File 		     958	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200821100355 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200828110343.ctl
+	  *EXTRA File 		    1497	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20200828110343.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201120131546.ctl
+	  *EXTRA File 		    1996	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201120131546.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201204130431.ctl
+	  *EXTRA File 		    3602	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201204130431.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201218100613.ctl
+	  *EXTRA File 		   13371	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20201218100613.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210108133139.ctl
+	  *EXTRA File 		   22134	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210108133139.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210115100106.ctl
+	  *EXTRA File 		    3627	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210115100106.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210122105226.ctl
+	  *EXTRA File 		    2018	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H0107_20210122105226.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20201120131524.ctl
+	  *EXTRA File 		    1216	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20201120131524.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210122105023.ctl
+	  *EXTRA File 		    2963	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210122105023.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210507143651.ctl
+	  *EXTRA File 		     961	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210507143651.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210625163233.ctl
+	  *EXTRA File 		     410	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210625163233.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210716123910.ctl
+	  *EXTRA File 		     414	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3251_20210716123910.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20201120131442.ctl
+	  *EXTRA File 		    1225	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20201120131442.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20210122104818.ctl
+	  *EXTRA File 		     966	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20210122104818.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20210625163033.ctl
+	  *EXTRA File 		     416	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3822_20210625163033.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200514153707.ctl
+	  *EXTRA File 		   17670	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200514153707.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200605095911.ctl
+	  *EXTRA File 		     675	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200605095911.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200702143729.ctl
+	  *EXTRA File 		    4986	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200702143729.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200731124458.ctl
+	  *EXTRA File 		    8137	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200731124458.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200805085331.ctl
+	  *EXTRA File 		    2681	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200805085331.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200821100314 - Copy.ctl
+	  *EXTRA File 		    7527	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200821100314 - Copy.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200828110303.ctl
+	  *EXTRA File 		    4443	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20200828110303.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20201120131503.ctl
+	  *EXTRA File 		     685	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20201120131503.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20210122104921.ctl
+	  *EXTRA File 		    1772	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H3979_20210122104921.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20200821100335 - Copy.ctl
+	  *EXTRA File 		     695	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20200821100335 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20200828110324.ctl
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20200828110324.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20210625163334.ctl
+	  *EXTRA File 		     412	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2019_H8634_20210625163334.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200214095346 - Copy.ctl
+	  *EXTRA File 		    2044	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200214095346 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200214095346.ctl
+	  *EXTRA File 		    2044	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200214095346.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200313143707.ctl
+	  *EXTRA File 		    6137	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200313143707.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200514153757.ctl
+	  *EXTRA File 		    1743	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200514153757.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200702143759.ctl
+	  *EXTRA File 		    8476	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200702143759.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200731124529.ctl
+	  *EXTRA File 		    1225	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200731124529.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200821100406 - Copy.ctl
+	  *EXTRA File 		   10014	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200821100406 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200828110353.ctl
+	  *EXTRA File 		     685	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200828110353.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200902101243 (2).ctl
+	  *EXTRA File 		    3348	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20200902101243 (2).txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201120131556.ctl
+	  *EXTRA File 		   10610	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201120131556.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201204130442.ctl
+	  *EXTRA File 		   17755	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201204130442.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201218100624.ctl
+	  *EXTRA File 		   20527	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20201218100624.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210108133150.ctl
+	  *EXTRA File 		   21907	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210108133150.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210115100117.ctl
+	  *EXTRA File 		    3334	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210115100117.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210122105248.ctl
+	  *EXTRA File 		    3874	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H0107_20210122105248.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20201120131535.ctl
+	  *EXTRA File 		    6230	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20201120131535.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210122105044.ctl
+	  *EXTRA File 		    5355	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210122105044.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210625163253.ctl
+	  *EXTRA File 		     419	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210625163253.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210730102638.ctl
+	  *EXTRA File 		     664	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3251_20210730102638.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20201120131453.ctl
+	  *EXTRA File 		    3901	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20201120131453.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210122104840.ctl
+	  *EXTRA File 		    4881	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210122104840.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210625163054.ctl
+	  *EXTRA File 		     408	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210625163054.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210730102557.ctl
+	  *EXTRA File 		     415	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3822_20210730102557.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200306095558.ctl
+	  *EXTRA File 		     423	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200306095558.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200313143657.ctl
+	  *EXTRA File 		     922	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200313143657.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200406095149.ctl
+	  *EXTRA File 		     679	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200406095149.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200514153718.ctl
+	  *EXTRA File 		    3577	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200514153718.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200702143739.ctl
+	  *EXTRA File 		     420	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200702143739.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200731124509.ctl
+	  *EXTRA File 		    1499	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200731124509.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200805085341.ctl
+	  *EXTRA File 		     949	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200805085341.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200821100325 - Copy.ctl
+	  *EXTRA File 		    1831	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200821100325 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200828110314.ctl
+	  *EXTRA File 		     667	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200828110314.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200902101231 (2).ctl
+	  *EXTRA File 		     425	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20200902101231 (2).txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201120131514.ctl
+	  *EXTRA File 		     401	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201120131514.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201204130420.ctl
+	  *EXTRA File 		     942	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201204130420.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201218100602.ctl
+	  *EXTRA File 		     391	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20201218100602.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210108133107.ctl
+	  *EXTRA File 		     681	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210108133107.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210122104942.ctl
+	  *EXTRA File 		     405	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210122104942.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210507143609.ctl
+	  *EXTRA File 		     399	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H3979_20210507143609.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200306095609.ctl
+	  *EXTRA File 		     400	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200306095609.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200514153738.ctl
+	  *EXTRA File 		     395	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200514153738.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200821100345 - Copy.ctl
+	  *EXTRA File 		     401	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20200821100345 - Copy.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20210108133128.ctl
+	  *EXTRA File 		     405	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20210108133128.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20210122105145.ctl
+	  *EXTRA File 		    1207	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2020_H8634_20210122105145.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2021_H3251_20210827081324.ctl
+	  *EXTRA File 		     669	HCSC.PROD.MAO.WIP0008.0B.TESS.P.CARE.ADD_2021_H3251_20210827081324.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H0107_20210507143819.ctl
+	  *EXTRA File 		     750	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H0107_20210507143819.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H0107_20211217094422.ctl
+	  *EXTRA File 		     442	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H0107_20211217094422.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3251_20210730102647.ctl
+	  *EXTRA File 		     484	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3251_20210730102647.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210319164323.ctl
+	  *EXTRA File 		     785	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210319164323.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210409110919.ctl
+	  *EXTRA File 		     477	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210409110919.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210716123837.ctl
+	  *EXTRA File 		    1100	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210716123837.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210723113316.ctl
+	  *EXTRA File 		     774	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20210723113316.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20220114094149.ctl
+	  *EXTRA File 		     766	HCSC.PROD.MAO.WIP0008.1B.TESS.I.CARE.ADD_2020_H3979_20220114094149.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210226113007.ctl
+	  *EXTRA File 		     398	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210226113007.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210319164423.ctl
+	  *EXTRA File 		     413	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210319164423.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210409110938.ctl
+	  *EXTRA File 		    2830	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210409110938.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210507143816.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210507143816.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210716124136.ctl
+	  *EXTRA File 		     682	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210716124136.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210818131446.ctl
+	  *EXTRA File 		     393	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210818131446.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210827081510.ctl
+	  *EXTRA File 		     408	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20210827081510.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20211122122620.ctl
+	  *EXTRA File 		    3547	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20211122122620.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20211217094419.ctl
+	  *EXTRA File 		     655	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20211217094419.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220218163227.ctl
+	  *EXTRA File 		    2292	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220218163227.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220225111830.ctl
+	  *EXTRA File 		    2294	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220225111830.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220318123555.ctl
+	  *EXTRA File 		    9829	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220318123555.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220422105150.ctl
+	  *EXTRA File 		   12841	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220422105150.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220603100651.ctl
+	  *EXTRA File 		    1749	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H0107_20220603100651.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210226112925.ctl
+	  *EXTRA File 		    1265	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210226112925.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210319164341.ctl
+	  *EXTRA File 		    1236	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210319164341.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210625163259.ctl
+	  *EXTRA File 		     414	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210625163259.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210730102644.ctl
+	  *EXTRA File 		     422	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20210730102644.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20211122122538.ctl
+	  *EXTRA File 		    3122	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3251_20211122122538.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20210226112843.ctl
+	  *EXTRA File 		     977	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20210226112843.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20210319164258.ctl
+	  *EXTRA File 		     663	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20210319164258.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20211122122456.ctl
+	  *EXTRA File 		     408	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3822_20211122122456.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210226112904.ctl
+	  *EXTRA File 		    1986	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210226112904.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210319164320.ctl
+	  *EXTRA File 		   11012	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210319164320.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210409110916.ctl
+	  *EXTRA File 		    6208	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210409110916.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210507143615.ctl
+	  *EXTRA File 		     681	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210507143615.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210716123833.ctl
+	  *EXTRA File 		   20847	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210716123833.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210723113313.ctl
+	  *EXTRA File 		    2855	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210723113313.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210924103638.ctl
+	  *EXTRA File 		    1004	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20210924103638.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20211217094337.ctl
+	  *EXTRA File 		    2035	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20211217094337.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20220114094145.ctl
+	  *EXTRA File 		    3157	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H3979_20220114094145.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210319164401.ctl
+	  *EXTRA File 		     965	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210319164401.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210625163359.ctl
+	  *EXTRA File 		     408	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210625163359.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210716124035.ctl
+	  *EXTRA File 		     659	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20210716124035.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20211122122559.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2020_H8634_20211122122559.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210122105210.ctl
+	  *EXTRA File 		     406	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210122105210.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210219132659.ctl
+	  *EXTRA File 		    2765	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210219132659.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210226112956.ctl
+	  *EXTRA File 		    1498	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210226112956.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210319164412.ctl
+	  *EXTRA File 		   16602	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210319164412.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210409110927.ctl
+	  *EXTRA File 		     975	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210409110927.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210507143736.ctl
+	  *EXTRA File 		    1806	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210507143736.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210604125631.ctl
+	  *EXTRA File 		   12263	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210604125631.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210625163419.ctl
+	  *EXTRA File 		    4741	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210625163419.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210716124056.ctl
+	  *EXTRA File 		   10755	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210716124056.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210818131435.ctl
+	  *EXTRA File 		    7349	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210818131435.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210827081450.ctl
+	  *EXTRA File 		    1238	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210827081450.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210927163543.ctl
+	  *EXTRA File 		    2583	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20210927163543.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211022125211.ctl
+	  *EXTRA File 		    1733	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211022125211.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211122122609.ctl
+	  *EXTRA File 		    2278	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211122122609.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211203085215.ctl
+	  *EXTRA File 		   12941	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211203085215.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211217094408.ctl
+	  *EXTRA File 		   10172	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20211217094408.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220107132434.ctl
+	  *EXTRA File 		    1502	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220107132434.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220114094238.ctl
+	  *EXTRA File 		    1764	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220114094238.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220218163126.ctl
+	  *EXTRA File 		    2294	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220218163126.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220318123321.ctl
+	  *EXTRA File 		     409	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220318123321.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220422105048.ctl
+	  *EXTRA File 		    7063	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220422105048.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220603100549.ctl
+	  *EXTRA File 		     399	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H0107_20220603100549.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210226112914.ctl
+	  *EXTRA File 		    1546	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210226112914.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210507143635.ctl
+	  *EXTRA File 		    2824	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210507143635.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210604125610.ctl
+	  *EXTRA File 		    2021	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210604125610.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210716123854.ctl
+	  *EXTRA File 		    4958	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210716123854.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210730102623.ctl
+	  *EXTRA File 		    2350	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210730102623.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210827081330.ctl
+	  *EXTRA File 		    2273	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210827081330.txt
+	  *EXTRA File 		       0	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210924103649.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210927163521.ctl
+	  *EXTRA File 		    3378	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20210927163521.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20211122122527.ctl
+	  *EXTRA File 		    4700	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20211122122527.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20211217094348.ctl
+	  *EXTRA File 		     407	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20211217094348.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220114094157.ctl
+	  *EXTRA File 		    4440	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220114094157.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220121142659.ctl
+	  *EXTRA File 		     707	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220121142659.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220318122934.ctl
+	  *EXTRA File 		     678	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3251_20220318122934.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210226112832.ctl
+	  *EXTRA File 		     690	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210226112832.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210604125559.ctl
+	  *EXTRA File 		     941	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210604125559.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210716123654.ctl
+	  *EXTRA File 		    4185	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210716123654.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210730102541.ctl
+	  *EXTRA File 		    2026	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210730102541.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210827081249.ctl
+	  *EXTRA File 		    2495	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210827081249.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210924103608.ctl
+	  *EXTRA File 		     668	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20210924103608.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20211122122446.ctl
+	  *EXTRA File 		     647	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20211122122446.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20220114094114.ctl
+	  *EXTRA File 		    1757	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20220114094114.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20220121142648.ctl
+	  *EXTRA File 		     953	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3822_20220121142648.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210219132619.ctl
+	  *EXTRA File 		    1245	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210219132619.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210319164309.ctl
+	  *EXTRA File 		     929	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210319164309.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210409110905.ctl
+	  *EXTRA File 		    2094	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210409110905.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210507143534.ctl
+	  *EXTRA File 		    1248	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210507143534.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210625163119.ctl
+	  *EXTRA File 		     691	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210625163119.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210716123754.ctl
+	  *EXTRA File 		    4332	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210716123754.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210723113302.ctl
+	  *EXTRA File 		     918	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20210723113302.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20211122122507.ctl
+	  *EXTRA File 		     954	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20211122122507.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20220114094135.ctl
+	  *EXTRA File 		     393	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20220114094135.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20220603100245.ctl
+	  *EXTRA File 		     674	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H3979_20220603100245.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210226112936.ctl
+	  *EXTRA File 		     425	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210226112936.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210604125620.ctl
+	  *EXTRA File 		     396	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210604125620.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210716123955.ctl
+	  *EXTRA File 		     412	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210716123955.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210827081410.ctl
+	  *EXTRA File 		     944	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210827081410.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210927163532.ctl
+	  *EXTRA File 		     703	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20210927163532.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20211122122548.ctl
+	  *EXTRA File 		     394	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20211122122548.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20220114094217.ctl
+	  *EXTRA File 		     430	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.ADD_2021_H8634_20220114094217.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H0107.20191127111112.ctl
+	  *EXTRA File 		    1641	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H0107.20191127111112.TXT.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H0107.20191227111111.ctl
+	  *EXTRA File 		     441	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H0107.20191227111111.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20191127111115.ctl
+	  *EXTRA File 		     455	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20191127111115.TXT.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20191227111111.ctl
+	  *EXTRA File 		     453	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20191227111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20200103111111.ctl
+	  *EXTRA File 		     738	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20200103111111.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20200117111111.ctl
+	  *EXTRA File 		     452	HCSC.PROD.MAO.WIP0008.2018.TESS.I.CARE.ADD.2018.H3979.20200117111111.txt.txt
+	  *EXTRA File 		     365	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H0107.20191127111113.ctl
+	  *EXTRA File 		   20881	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H0107.20191127111113.TXT.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H0107.20191227111111.ctl
+	  *EXTRA File 		     407	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H0107.20191227111111.txt
+	  *EXTRA File 		     365	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20191127111116.ctl
+	  *EXTRA File 		   11971	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20191127111116.TXT.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20191227111111.ctl
+	  *EXTRA File 		    3073	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20191227111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20200103111111.ctl
+	  *EXTRA File 		    6803	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20200103111111.txt
+	  *EXTRA File 		     365	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20200117111111.ctl
+	  *EXTRA File 		    5865	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2018.H3979.20200117111111.txt.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20191127111114.ctl
+	  *EXTRA File 		    1231	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20191127111114.TXT.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20191227111111.ctl
+	  *EXTRA File 		    3061	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20191227111111.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200110111111.ctl
+	  *EXTRA File 		    2534	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200110111111.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200117111111.ctl
+	  *EXTRA File 		     394	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200117111111.txt.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200214095329.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H0107.20200214095329.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20191127111111.ctl
+	  *EXTRA File 		    2027	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20191127111111.TXT.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20200110111111.ctl
+	  *EXTRA File 		    4436	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20200110111111.txt
+	  *EXTRA File 		     363	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20200117111111.ctl
+	  *EXTRA File 		    1258	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD.2019.H3979.20200117111111.txt.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD_2019_H0107_20200214095329 - Copy.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD_2019_H0107_20200214095329 - Copy.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD_2019_H0107_20200214095329.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.2018.TESS.P.CARE.ADD_2019_H0107_20200214095329.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2019.TESS.P.CARE.ADD.2019.H3979.20200103111111.ctl
+	  *EXTRA File 		     403	HCSC.PROD.MAO.WIP0008.2019.TESS.P.CARE.ADD.2019.H3979.20200103111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H0107.20201218111111.ctl
+	  *EXTRA File 		    1990	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H0107.20201218111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H0107.20210108111111.ctl
+	  *EXTRA File 		     435	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H0107.20210108111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200821111111.ctl
+	  *EXTRA File 		    1389	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200828111111.ctl
+	  *EXTRA File 		     741	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200828111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200925111111.ctl
+	  *EXTRA File 		     771	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2019.H3979.20200925111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2020.H0107.20201218111111.ctl
+	  *EXTRA File 		    3499	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2020.H0107.20201218111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2020.H0107.20210108111111.ctl
+	  *EXTRA File 		    3153	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD.2020.H0107.20210108111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD_2019_H3979_20200514111111.ctl
+	  *EXTRA File 		     475	HCSC.PROD.MAO.WIP0008.2020.TESS.I.CARE.ADD_2019_H3979_20200514111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20200821111111.ctl
+	  *EXTRA File 		     958	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20200828111111.ctl
+	  *EXTRA File 		    1497	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20200828111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20201218111111.ctl
+	  *EXTRA File 		   13371	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20201218111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20210108111111.ctl
+	  *EXTRA File 		   22134	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H0107.20210108111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200821111111.ctl
+	  *EXTRA File 		    7527	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200821111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200828111111.ctl
+	  *EXTRA File 		    4443	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200828111111.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200925111111.ctl
+	  *EXTRA File 		    2310	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H3979.20200925111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200821111111.ctl
+	  *EXTRA File 		     695	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200828111111.ctl
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200828111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200925111111..ctl
+	  *EXTRA File 		     407	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2019.H8634.20200925111111.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200214095346.ctl
+	  *EXTRA File 		    2044	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200214095346.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200313143707.ctl
+	  *EXTRA File 		    6137	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200313143707.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200821111111.ctl
+	  *EXTRA File 		   10014	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200828111111.ctl
+	  *EXTRA File 		     685	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200828111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200902111111.ctl
+	  *EXTRA File 		    3348	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20200902111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20201218111111.ctl
+	  *EXTRA File 		   20527	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20201218111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20210108111111.ctl
+	  *EXTRA File 		   21907	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H0107.20210108111111.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200306095558.ctl
+	  *EXTRA File 		     423	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200306095558.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200313143657.ctl
+	  *EXTRA File 		     922	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200313143657.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200821111111.ctl
+	  *EXTRA File 		    1831	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200828111111.ctl
+	  *EXTRA File 		     667	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200828111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200902111111.ctl
+	  *EXTRA File 		     425	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200902111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200925111111.ctl
+	  *EXTRA File 		     949	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20200925111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20201023111111.ctl
+	  *EXTRA File 		     690	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20201023111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20201218111111.ctl
+	  *EXTRA File 		     391	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20201218111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20210108111111.ctl
+	  *EXTRA File 		     681	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H3979.20210108111111.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20200306095609.ctl
+	  *EXTRA File 		     400	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20200306095609.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20200821111111.ctl
+	  *EXTRA File 		     401	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20200821111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20201023111111.ctl
+	  *EXTRA File 		     415	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20201023111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20210108111111.ctl
+	  *EXTRA File 		     405	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD.2020.H8634.20210108111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2019_H3979_20200514111111.ctl
+	  *EXTRA File 		   17670	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2019_H3979_20200514111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H0107_20200514111111.ctl
+	  *EXTRA File 		    1743	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H0107_20200514111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H3979_20200514111111.ctl
+	  *EXTRA File 		    3577	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H3979_20200514111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H8634_20200514111111.ctl
+	  *EXTRA File 		     395	HCSC.PROD.MAO.WIP0008.2020.TESS.P.CARE.ADD_2020_H8634_20200514111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2021.TESS.I.CARE.ADD.2020.H3979.20210409111111.ctl
+	  *EXTRA File 		     477	HCSC.PROD.MAO.WIP0008.2021.TESS.I.CARE.ADD.2020.H3979.20210409111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2020.H0107.20210409111111.ctl
+	  *EXTRA File 		    2830	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2020.H0107.20210409111111.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2020.H3979.20210409111111.ctl
+	  *EXTRA File 		    6208	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2020.H3979.20210409111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2021.H0107.20210409111111.ctl
+	  *EXTRA File 		     975	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2021.H0107.20210409111111.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2021.H3979.20210409111111.ctl
+	  *EXTRA File 		    2094	HCSC.PROD.MAO.WIP0008.2021.TESS.P.CARE.ADD.2021.H3979.20210409111111.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220318123309.ctl
+	  *EXTRA File 		     439	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220318123309.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220422105044.ctl
+	  *EXTRA File 		    3490	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220422105044.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220513140130.ctl
+	  *EXTRA File 		    1636	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220513140130.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220520144525.ctl
+	  *EXTRA File 		     741	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220520144525.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220715094229.ctl
+	  *EXTRA File 		    2857	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220715094229.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220729110425.ctl
+	  *EXTRA File 		    1364	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20220729110425.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20221104115228.ctl
+	  *EXTRA File 		     439	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20221104115228.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230106181158.ctl
+	  *EXTRA File 		    4471	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230106181158.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230117135428.ctl
+	  *EXTRA File 		     759	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230117135428.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230210122211.ctl
+	  *EXTRA File 		     434	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H0107_20230210122211.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H3251_20220909123149.ctl
+	  *EXTRA File 		     448	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H3251_20220909123149.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H3251_20230117135302.ctl
+	  *EXTRA File 		    1097	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.ADD_2021_H3251_20230117135302.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220218163121.ctl
+	  *EXTRA File 		    2568	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220218163121.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220225111723.ctl
+	  *EXTRA File 		    4713	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220225111723.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220318123254.ctl
+	  *EXTRA File 		    1711	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220318123254.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220422105041.ctl
+	  *EXTRA File 		   66068	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220422105041.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220513140127.ctl
+	  *EXTRA File 		   21346	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220513140127.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220520144521.ctl
+	  *EXTRA File 		    4771	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220520144521.txt
+	  *EXTRA File 		     386	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220603100543.ctl
+	  *EXTRA File 		    2309	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220603100543.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220715094225.ctl
+	  *EXTRA File 		   37994	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220715094225.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220729110422.ctl
+	  *EXTRA File 		   10321	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20220729110422.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20221104115224.ctl
+	  *EXTRA File 		    1703	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20221104115224.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230106181154.ctl
+	  *EXTRA File 		   87236	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230106181154.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230117135425.ctl
+	  *EXTRA File 		   20342	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230117135425.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230210122207.ctl
+	  *EXTRA File 		    1793	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H0107_20230210122207.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20220812120234.ctl
+	  *EXTRA File 		    3100	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20220812120234.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20220909123145.ctl
+	  *EXTRA File 		    3849	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20220909123145.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20221104115101.ctl
+	  *EXTRA File 		     424	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20221104115101.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20230106181029.ctl
+	  *EXTRA File 		    4360	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20230106181029.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20230117135259.ctl
+	  *EXTRA File 		    4094	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3251_20230117135259.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20220812120110.ctl
+	  *EXTRA File 		    1202	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20220812120110.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20220909123101.ctl
+	  *EXTRA File 		    4055	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20220909123101.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20230106180904.ctl
+	  *EXTRA File 		    1868	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20230106180904.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20230117135216.ctl
+	  *EXTRA File 		    2304	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3822_20230117135216.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20220812120153.ctl
+	  *EXTRA File 		     956	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20220812120153.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20221007070348.ctl
+	  *EXTRA File 		     426	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20221007070348.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20221104115020.ctl
+	  *EXTRA File 		    3559	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20221104115020.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20230106180947.ctl
+	  *EXTRA File 		    2998	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20230106180947.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20230210121725.ctl
+	  *EXTRA File 		     438	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H3979_20230210121725.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20220909123229.ctl
+	  *EXTRA File 		    1224	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20220909123229.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230106181112.ctl
+	  *EXTRA File 		     411	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230106181112.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230117135342.ctl
+	  *EXTRA File 		     422	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230117135342.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230210122033.ctl
+	  *EXTRA File 		     412	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2021_H8634_20230210122033.txt
+	  *EXTRA File 		     387	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20220715094249.ctl
+	  *EXTRA File 		    3129	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20220715094249.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20220729110445.ctl
+	  *EXTRA File 		    2034	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20220729110445.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20221104115247.ctl
+	  *EXTRA File 		     392	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H0107_20221104115247.txt
+	  *EXTRA File 		     385	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H3822_20220909123124.ctl
+	  *EXTRA File 		     399	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.ADD_2022_H3822_20220909123124.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220218163147.ctl
+	  *EXTRA File 		    4178	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220218163147.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220225111749.ctl
+	  *EXTRA File 		    8884	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220225111749.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220318123422.ctl
+	  *EXTRA File 		    5558	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220318123422.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220422105109.ctl
+	  *EXTRA File 		   17603	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220422105109.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220513140148.ctl
+	  *EXTRA File 		    5641	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220513140148.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220520144538.ctl
+	  *EXTRA File 		    7781	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220520144538.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220603100610.ctl
+	  *EXTRA File 		    5879	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220603100610.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220715094243.ctl
+	  *EXTRA File 		    6658	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220715094243.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220729110439.ctl
+	  *EXTRA File 		    6566	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220729110439.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220812120331.ctl
+	  *EXTRA File 		    3108	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220812120331.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220909123326.ctl
+	  *EXTRA File 		    2573	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20220909123326.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221007070536.ctl
+	  *EXTRA File 		    3415	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221007070536.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221104115241.ctl
+	  *EXTRA File 		    2800	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221104115241.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221202163244.ctl
+	  *EXTRA File 		    5836	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20221202163244.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230106181212.ctl
+	  *EXTRA File 		     965	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230106181212.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230117135442.ctl
+	  *EXTRA File 		    8197	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230117135442.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230210122235.ctl
+	  *EXTRA File 		    1736	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H0107_20230210122235.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220218163016.ctl
+	  *EXTRA File 		     701	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220218163016.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220225111617.ctl
+	  *EXTRA File 		     717	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220225111617.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220318123040.ctl
+	  *EXTRA File 		     671	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220318123040.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220422104935.ctl
+	  *EXTRA File 		    2095	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220422104935.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220513135944.ctl
+	  *EXTRA File 		    6365	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220513135944.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220520144415.ctl
+	  *EXTRA File 		    2841	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220520144415.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220527135525.ctl
+	  *EXTRA File 		    1206	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220527135525.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220603100437.ctl
+	  *EXTRA File 		    2830	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220603100437.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220729110313.ctl
+	  *EXTRA File 		    2828	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220729110313.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220812120250.ctl
+	  *EXTRA File 		     669	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220812120250.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220909123202.ctl
+	  *EXTRA File 		    3420	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20220909123202.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20221104115117.ctl
+	  *EXTRA File 		    4484	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20221104115117.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230106181045.ctl
+	  *EXTRA File 		    2342	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230106181045.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230117135316.ctl
+	  *EXTRA File 		    1477	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230117135316.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230210121925.ctl
+	  *EXTRA File 		    1780	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3251_20230210121925.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220225111446.ctl
+	  *EXTRA File 		     417	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220225111446.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220318122637.ctl
+	  *EXTRA File 		     684	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220318122637.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220422104804.ctl
+	  *EXTRA File 		     426	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220422104804.txt
+	  *EXTRA File 		     389	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220513135742.ctl
+	  *EXTRA File 		    2559	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220513135742.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220520144253.ctl
+	  *EXTRA File 		    1214	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220520144253.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220527135501.ctl
+	  *EXTRA File 		     405	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220527135501.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220603100133.ctl
+	  *EXTRA File 		    2873	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220603100133.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220617131623.ctl
+	  *EXTRA File 		     399	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220617131623.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220729110231.ctl
+	  *EXTRA File 		    1482	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220729110231.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220812120127.ctl
+	  *EXTRA File 		     415	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220812120127.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220909123118.ctl
+	  *EXTRA File 		    1476	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20220909123118.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20221104114954.ctl
+	  *EXTRA File 		    2865	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20221104114954.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20230106180920.ctl
+	  *EXTRA File 		     671	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20230106180920.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20230210121616.ctl
+	  *EXTRA File 		     401	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3822_20230210121616.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220513135843.ctl
+	  *EXTRA File 		     985	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220513135843.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220520144334.ctl
+	  *EXTRA File 		     406	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220520144334.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220527135513.ctl
+	  *EXTRA File 		     407	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220527135513.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220603100306.ctl
+	  *EXTRA File 		     402	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H3979_20220603100306.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220513140045.ctl
+	  *EXTRA File 		     415	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220513140045.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220520144455.ctl
+	  *EXTRA File 		     414	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220520144455.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220729110355.ctl
+	  *EXTRA File 		     686	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220729110355.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220909123245.ctl
+	  *EXTRA File 		     425	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20220909123245.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20221104115158.ctl
+	  *EXTRA File 		     709	HCSC.PROD.MAO.WIP0008.2CDIB.TESS.P.CARE.ADD_2022_H8634_20221104115158.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230210122317.ctl
+	  *EXTRA File 		    3354	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230210122317.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230310102452.ctl
+	  *EXTRA File 		    7178	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230310102452.txt
+	  *EXTRA File 		     392	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230512080843.ctl
+	  *EXTRA File 		   40346	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230512080843.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230602102116.ctl
+	  *EXTRA File 		     413	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230602102116.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H1666_20230310102429.ctl
+	  *EXTRA File 		     414	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H1666_20230310102429.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3251_20230310102418.ctl
+	  *EXTRA File 		    1522	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3251_20230310102418.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3251_20230512080820.ctl
+	  *EXTRA File 		    6417	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3251_20230512080820.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3822_20230310102406.ctl
+	  *EXTRA File 		     415	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3822_20230310102406.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3822_20230512080808.ctl
+	  *EXTRA File 		    4801	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H3822_20230512080808.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H8634_20230310102440.ctl
+	  *EXTRA File 		     414	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H8634_20230310102440.txt
+	  *EXTRA File 		     388	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H8634_20230512080831.ctl
+	  *EXTRA File 		     686	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H8634_20230512080831.txt
+	  *EXTRA File 		     390	HCSC.PROD.MAO.WIP0008.SQAPros.TESS.P.CARE.ADD_2021_H0107_20220513140121.ctl
+	  *EXTRA File 		     411	HCSC.PROD.MAO.WIP0008.SQAPros.TESS.P.CARE.ADD_2021_H0107_20220513140121.txt
+	  *EXTRA File 		  118170	HCSC_BillingReconciliationSummary_201802_201804.xlsx
+	  *EXTRA File 		  566376	HCSC_BillingSummaryMayJune_20180717.xlsx
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_August2021.csv
+	  *EXTRA File 		   1.0 m	HCSC_Comm_PECMemberBilling_December2021_INV1001113.xlsx
+	  *EXTRA File 		   1.1 m	HCSC_Comm_PECMemberBilling_February2022_20220328.xlsx
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_July2021.csv
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_June2021.csv
+	  *EXTRA File 		   1.1 m	HCSC_Comm_PECMemberBilling_March2022_20220328.xlsx
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_May2021.csv
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_November2021_20220120_INV1000957.xlsx
+	  *EXTRA File 		   1.1 m	HCSC_Comm_PECMemberBilling_October2021_20220120_INV1000956.xlsx
+	  *EXTRA File 		   1.2 m	HCSC_Comm_PECMemberBilling_September2021_20220120_INV1000953.xlsx
+	  *EXTRA File 		  192372	HCSC_EngagedPECMemberRoster_201803_201804_ForBilling.xlsx
+	  *EXTRA File 		   12185	HCSC_HEDIS_BIOLABS_1.txt
+	  *EXTRA File 		   7.2 m	HCSC_MemberRoster 202008.xlsx
+	  *EXTRA File 		  330088	HCSC_PECMemberBilling_201807.xlsx
+	  *EXTRA File 		  304161	HCSC_PECMemberBilling_201808.xlsx
+	  *EXTRA File 		  399332	HCSC_PECMemberBilling_201810.xlsx
+	  *EXTRA File 		  387793	HCSC_PECMemberBilling_201811.xlsx
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_April2021.csv
+	  *EXTRA File 		   1.3 m	HCSC_PECMemberBilling_April2022_INV1001329.csv
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_April2023.csv
+	  *EXTRA File 		   1.1 m	HCSC_PECMemberBilling_August2021.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_August2022.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_December2021_INV1001046.csv
+	  *EXTRA File 		   1.2 m	HCSC_PECMemberBilling_December2022.csv
+	  *EXTRA File 		   1.3 m	HCSC_PECMemberBilling_February2022_INV1001248.csv
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_February2023.csv
+	  *EXTRA File 		   1.2 m	HCSC_PECMemberBilling_January2022_INV1001103.csv
+	  *EXTRA File 		   1.2 m	HCSC_PECMemberBilling_January2023.csv
+	  *EXTRA File 		   1.1 m	HCSC_PECMemberBilling_July2021.csv
+	  *EXTRA File 		   1.6 m	HCSC_PECMemberBilling_July2022.csv
+	  *EXTRA File 		   1.1 m	HCSC_PECMemberBilling_June2021.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_June2022_HCSC_INV1001416.csv
+	  *EXTRA File 		  862620	HCSC_PECMemberBilling_March2021_INV1000417.xlsx
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_March2022_INV1001249.csv
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_March2023.csv
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_May2021.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_May2022_INV1001415.csv
+	  *EXTRA File 		   1.5 m	HCSC_PECMemberBilling_May2023.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_November2021 CSV_INV1000947.csv
+	  *EXTRA File 		   1.2 m	HCSC_PECMemberBilling_November2022.csv
+	  *EXTRA File 		  381959	HCSC_PECMemberBilling_October2020_INV67859.xlsx
+	  *EXTRA File 		   1.1 m	HCSC_PECMemberBilling_October2021 CSV_INV1000836.csv
+	  *EXTRA File 		   1.2 m	HCSC_PECMemberBilling_October2022.csv
+	  *EXTRA File 		  343406	HCSC_PECMemberBilling_September2020_INV67858.xlsx
+	  *EXTRA File 		   1.1 m	HCSC_PECMemberBilling_September2021.csv
+	  *EXTRA File 		   1.4 m	HCSC_PECMemberBilling_September2022.csv
+	  *EXTRA File 		  345006	HCSC_PEC_MemberBilling_201809.xlsx
+	  *EXTRA File 		  496372	HCSC_PEC_Practice_Member_Detail.xlsx
+	  *EXTRA File 		   51645	HCSC_Performance Incentive_Member_Detail_August2018.xlsx
+	  *EXTRA File 		   29457	HCSC_Performance Incentive_Member_Detail_July2018.xlsx
+	  *EXTRA File 		   22815	HCSC_Performance Incentive_Member_Detail_June2018.xlsx
+	  *EXTRA File 		   7.0 m	HCSC_PSV_Sample_2022.zip
+	  *EXTRA File 		  24.3 m	HCSC_ValidationRecords_2022.zip
+	  *EXTRA File 		     366	INCORRECT_Advantasure_to_HCSC_HEDIS_BioLabs_20201016.ctl
+	  *EXTRA File 		   66897	INCORRECT_Advantasure_to_HCSC_HEDIS_BioLabs_20201016.txt
+	  *EXTRA File 		  344099	INV67681_Advantasure_HCSC_PEC_August 2020.xlsx
+	  *EXTRA File 		   10503	membersnotfound_Advantasure_2020_1008.xlsx
+	  *EXTRA File 		   67194	NOTSENT - Advantasure_to_HCSC_HEDIS_BioLabs_20191101.txt
+	  *EXTRA File 		     366	NOTSENT-Advantasure_to_HCSC_HEDIS_BioLabs_20191101.ctl
+	  *EXTRA File 		   3.6 m	PSV Audit Files 2.zip
+	  *EXTRA File 		   5.9 m	PSV Audit Files.zip
+	  *EXTRA File 		  18.5 m	ReportsForCely.zip
+	  *EXTRA File 		   34405	Tessellate_Bonus_Incentive_Member_Detail_HCSC_September2018.xlsx
+	  *EXTRA File 		  968462	Tessellate_StarMemberDetail_HCSC_AUG2018.xlsx
+	  *EXTRA File 		   84800	Tessellate_to_HCSC_HEDIS_BioLabs_20181030.txt
+	  *EXTRA File 		  247177	Tessellate_to_HCSC_HEDIS_BioLabs_20181130.txt
+	  *EXTRA File 		  247227	Tessellate_to_HCSC_HEDIS_BioLabs_20181203.txt
+	  *EXTRA File 		   84749	Tessellate_to_HCSC_PEC_Supplemental_20181030.txt
+	  *EXTRA File 		   40148	Tessellate_YTDPerformance Incentive_Member_Detail_HCSC_October2018.xlsx
+	  *EXTRA File 		       0	TESS_HCSC_A01234_PROF_A_2017_H0927_04102018.txt
+	  *EXTRA File 		  98.9 m	TESS_HCSC_ADV coding audit_11.15.22.zip
+	  *EXTRA File 		  20.5 m	TESS_HCSC_ADV coding audit_supp_11.21.22.zip
+	  *EXTRA File 		  99.8 m	TESS_HCSC_Advantasure_Random_Sample_2021DOS_v2_EMR_.zip
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H0107_01182019.ctl
+	  *EXTRA File 		     745	TESS_HCSC_PRO2017_INST_A_2017_H0107_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2017_H0107_06142019.ctl
+	  *EXTRA File 		    4272	TESS_HCSC_PRO2017_INST_A_2017_H0107_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2017_H0107_08062018.ctl
+	  *EXTRA File 		    1877	TESS_HCSC_PRO2017_INST_A_2017_H0107_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H0107_08162018.ctl
+	  *EXTRA File 		    1030	TESS_HCSC_PRO2017_INST_A_2017_H0107_08162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H0107_09052018.ctl
+	  *EXTRA File 		     723	TESS_HCSC_PRO2017_INST_A_2017_H0107_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H0107_09142018.ctl
+	  *EXTRA File 		     432	TESS_HCSC_PRO2017_INST_A_2017_H0107_09142018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_04162018.ctl
+	  *EXTRA File 		     423	TESS_HCSC_PRO2017_INST_A_2017_H3979_04162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_05312018.ctl
+	  *EXTRA File 		     748	TESS_HCSC_PRO2017_INST_A_2017_H3979_05312018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2017_H3979_06142019.ctl
+	  *EXTRA File 		    3109	TESS_HCSC_PRO2017_INST_A_2017_H3979_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_07052018.ctl
+	  *EXTRA File 		     721	TESS_HCSC_PRO2017_INST_A_2017_H3979_07052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_08062018.ctl
+	  *EXTRA File 		     719	TESS_HCSC_PRO2017_INST_A_2017_H3979_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_09052018.ctl
+	  *EXTRA File 		     730	TESS_HCSC_PRO2017_INST_A_2017_H3979_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H3979_10052018.ctl
+	  *EXTRA File 		     431	TESS_HCSC_PRO2017_INST_A_2017_H3979_10052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H8634_06142019.ctl
+	  *EXTRA File 		     423	TESS_HCSC_PRO2017_INST_A_2017_H8634_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_H8634_07052018.ctl
+	  *EXTRA File 		     421	TESS_HCSC_PRO2017_INST_A_2017_H8634_07052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_S5715_05312018.ctl
+	  *EXTRA File 		     431	TESS_HCSC_PRO2017_INST_A_2017_S5715_05312018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2017_S5715_06142019.ctl
+	  *EXTRA File 		     433	TESS_HCSC_PRO2017_INST_A_2017_S5715_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2018_H0107_01182019.ctl
+	  *EXTRA File 		   16833	TESS_HCSC_PRO2017_INST_A_2018_H0107_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2018_H0107_06142019.ctl
+	  *EXTRA File 		   26106	TESS_HCSC_PRO2017_INST_A_2018_H0107_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2018_H0107_08062018.ctl
+	  *EXTRA File 		    2437	TESS_HCSC_PRO2017_INST_A_2018_H0107_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H0107_08162018.ctl
+	  *EXTRA File 		     728	TESS_HCSC_PRO2017_INST_A_2018_H0107_08162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H0107_09052018.ctl
+	  *EXTRA File 		    1007	TESS_HCSC_PRO2017_INST_A_2018_H0107_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H0107_09142018.ctl
+	  *EXTRA File 		     713	TESS_HCSC_PRO2017_INST_A_2018_H0107_09142018.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2017_INST_A_2018_H0107_10052018.ctl
+	  *EXTRA File 		    1389	TESS_HCSC_PRO2017_INST_A_2018_H0107_10052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_INST_A_2018_H0107_11052018.ctl
+	  *EXTRA File 		    1691	TESS_HCSC_PRO2017_INST_A_2018_H0107_11052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H0107_11162018.ctl
+	  *EXTRA File 		    1070	TESS_HCSC_PRO2017_INST_A_2018_H0107_11162018.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2017_INST_A_2018_H0107_12052018.ctl
+	  *EXTRA File 		    1379	TESS_HCSC_PRO2017_INST_A_2018_H0107_12052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H3979_01182019 (2).ctl
+	  *EXTRA File 		     444	TESS_HCSC_PRO2017_INST_A_2018_H3979_01182019 (2).txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H3979_01182019.ctl
+	  *EXTRA File 		     444	TESS_HCSC_PRO2017_INST_A_2018_H3979_01182019.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2017_INST_A_2018_H3979_06142019.ctl
+	  *EXTRA File 		    2947	TESS_HCSC_PRO2017_INST_A_2018_H3979_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H3979_08062018.ctl
+	  *EXTRA File 		     769	TESS_HCSC_PRO2017_INST_A_2018_H3979_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H3979_09052018.ctl
+	  *EXTRA File 		     740	TESS_HCSC_PRO2017_INST_A_2018_H3979_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H3979_12142018.ctl
+	  *EXTRA File 		     444	TESS_HCSC_PRO2017_INST_A_2018_H3979_12142018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H8634_01182019.ctl
+	  *EXTRA File 		    1715	TESS_HCSC_PRO2017_INST_A_2018_H8634_01182019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_H8634_06142019.ctl
+	  *EXTRA File 		    1710	TESS_HCSC_PRO2017_INST_A_2018_H8634_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_S5715_06142019.ctl
+	  *EXTRA File 		     794	TESS_HCSC_PRO2017_INST_A_2018_S5715_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_S5715_08062018.ctl
+	  *EXTRA File 		     436	TESS_HCSC_PRO2017_INST_A_2018_S5715_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_INST_A_2018_S5715_08162018.ctl
+	  *EXTRA File 		     492	TESS_HCSC_PRO2017_INST_A_2018_S5715_08162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_01182019.ctl
+	  *EXTRA File 		    4098	TESS_HCSC_PRO2017_PROF_A_2017_H0107_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_01252019.ctl
+	  *EXTRA File 		    3845	TESS_HCSC_PRO2017_PROF_A_2017_H0107_01252019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_06142019.ctl
+	  *EXTRA File 		  149512	TESS_HCSC_PRO2017_PROF_A_2017_H0107_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_07052018.ctl
+	  *EXTRA File 		    8270	TESS_HCSC_PRO2017_PROF_A_2017_H0107_07052018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_08062018.ctl
+	  *EXTRA File 		   30486	TESS_HCSC_PRO2017_PROF_A_2017_H0107_08062018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_08162018.ctl
+	  *EXTRA File 		   19411	TESS_HCSC_PRO2017_PROF_A_2017_H0107_08162018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_09052018.ctl
+	  *EXTRA File 		   21630	TESS_HCSC_PRO2017_PROF_A_2017_H0107_09052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_09142018.ctl
+	  *EXTRA File 		    9197	TESS_HCSC_PRO2017_PROF_A_2017_H0107_09142018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_10052018.ctl
+	  *EXTRA File 		   18724	TESS_HCSC_PRO2017_PROF_A_2017_H0107_10052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_10122018.ctl
+	  *EXTRA File 		    3100	TESS_HCSC_PRO2017_PROF_A_2017_H0107_10122018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H0107_11052018.ctl
+	  *EXTRA File 		   18884	TESS_HCSC_PRO2017_PROF_A_2017_H0107_11052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_11162018.ctl
+	  *EXTRA File 		    8766	TESS_HCSC_PRO2017_PROF_A_2017_H0107_11162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H0107_12052018.ctl
+	  *EXTRA File 		    8679	TESS_HCSC_PRO2017_PROF_A_2017_H0107_12052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3822_01182019.ctl
+	  *EXTRA File 		     401	TESS_HCSC_PRO2017_PROF_A_2017_H3822_01182019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3822_06142019.ctl
+	  *EXTRA File 		    1682	TESS_HCSC_PRO2017_PROF_A_2017_H3822_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H3822_09052018.ctl
+	  *EXTRA File 		    1422	TESS_HCSC_PRO2017_PROF_A_2017_H3822_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01042019.ctl
+	  *EXTRA File 		     674	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01042019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01182019 (2).ctl
+	  *EXTRA File 		    1722	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01182019 (2).txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01182019.ctl
+	  *EXTRA File 		    1722	TESS_HCSC_PRO2017_PROF_A_2017_H3979_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H3979_04162018.ctl
+	  *EXTRA File 		   10154	TESS_HCSC_PRO2017_PROF_A_2017_H3979_04162018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H3979_05312018.ctl
+	  *EXTRA File 		   19142	TESS_HCSC_PRO2017_PROF_A_2017_H3979_05312018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H3979_06142019.ctl
+	  *EXTRA File 		   66927	TESS_HCSC_PRO2017_PROF_A_2017_H3979_06142019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H3979_07052018.ctl
+	  *EXTRA File 		   14333	TESS_HCSC_PRO2017_PROF_A_2017_H3979_07052018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2017_H3979_08062018.ctl
+	  *EXTRA File 		   17198	TESS_HCSC_PRO2017_PROF_A_2017_H3979_08062018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H3979_08162018.ctl
+	  *EXTRA File 		    1458	TESS_HCSC_PRO2017_PROF_A_2017_H3979_08162018.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2017_PROF_A_2017_H3979_09052018.ctl
+	  *EXTRA File 		    1173	TESS_HCSC_PRO2017_PROF_A_2017_H3979_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3979_10052018.ctl
+	  *EXTRA File 		     421	TESS_HCSC_PRO2017_PROF_A_2017_H3979_10052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H3979_12052018.ctl
+	  *EXTRA File 		     698	TESS_HCSC_PRO2017_PROF_A_2017_H3979_12052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H3979_12142018.ctl
+	  *EXTRA File 		    1722	TESS_HCSC_PRO2017_PROF_A_2017_H3979_12142018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_01182019 (2).ctl
+	  *EXTRA File 		     675	TESS_HCSC_PRO2017_PROF_A_2017_H8634_01182019 (2).txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_01182019.ctl
+	  *EXTRA File 		     675	TESS_HCSC_PRO2017_PROF_A_2017_H8634_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H8634_04162018.ctl
+	  *EXTRA File 		    1852	TESS_HCSC_PRO2017_PROF_A_2017_H8634_04162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H8634_05312018.ctl
+	  *EXTRA File 		    1415	TESS_HCSC_PRO2017_PROF_A_2017_H8634_05312018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H8634_06142019.ctl
+	  *EXTRA File 		   14536	TESS_HCSC_PRO2017_PROF_A_2017_H8634_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H8634_07052018.ctl
+	  *EXTRA File 		    4476	TESS_HCSC_PRO2017_PROF_A_2017_H8634_07052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2017_H8634_08062018.ctl
+	  *EXTRA File 		    5936	TESS_HCSC_PRO2017_PROF_A_2017_H8634_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_08162018.ctl
+	  *EXTRA File 		     375	TESS_HCSC_PRO2017_PROF_A_2017_H8634_08162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_10052018.ctl
+	  *EXTRA File 		     384	TESS_HCSC_PRO2017_PROF_A_2017_H8634_10052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_12052018.ctl
+	  *EXTRA File 		     391	TESS_HCSC_PRO2017_PROF_A_2017_H8634_12052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_H8634_12142018.ctl
+	  *EXTRA File 		     675	TESS_HCSC_PRO2017_PROF_A_2017_H8634_12142018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_S5715_04162018.ctl
+	  *EXTRA File 		     428	TESS_HCSC_PRO2017_PROF_A_2017_S5715_04162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_S5715_06142019.ctl
+	  *EXTRA File 		    1436	TESS_HCSC_PRO2017_PROF_A_2017_S5715_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_S5715_07052018.ctl
+	  *EXTRA File 		     650	TESS_HCSC_PRO2017_PROF_A_2017_S5715_07052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2017_S5715_08062018.ctl
+	  *EXTRA File 		     644	TESS_HCSC_PRO2017_PROF_A_2017_S5715_08062018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01042019.ctl
+	  *EXTRA File 		    5487	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01042019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01172019.ctl
+	  *EXTRA File 		   74882	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01172019.txt
+	  *EXTRA File 		     369	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01182019.ctl
+	  *EXTRA File 		  306018	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01182019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01222019.ctl
+	  *EXTRA File 		   25313	TESS_HCSC_PRO2017_PROF_A_2018_H0107_01222019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H0107_04122019.ctl
+	  *EXTRA File 		     662	TESS_HCSC_PRO2017_PROF_A_2018_H0107_04122019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_05312018.ctl
+	  *EXTRA File 		    1399	TESS_HCSC_PRO2017_PROF_A_2018_H0107_05312018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_06052018.ctl
+	  *EXTRA File 		    3441	TESS_HCSC_PRO2017_PROF_A_2018_H0107_06052018.txt
+	  *EXTRA File 		     369	TESS_HCSC_PRO2017_PROF_A_2018_H0107_06142019.ctl
+	  *EXTRA File 		  499408	TESS_HCSC_PRO2017_PROF_A_2018_H0107_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_07052018.ctl
+	  *EXTRA File 		    4244	TESS_HCSC_PRO2017_PROF_A_2018_H0107_07052018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_08062018.ctl
+	  *EXTRA File 		   25022	TESS_HCSC_PRO2017_PROF_A_2018_H0107_08062018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_08162018.ctl
+	  *EXTRA File 		   20713	TESS_HCSC_PRO2017_PROF_A_2018_H0107_08162018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_09052018.ctl
+	  *EXTRA File 		   34791	TESS_HCSC_PRO2017_PROF_A_2018_H0107_09052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_09142018.ctl
+	  *EXTRA File 		   10603	TESS_HCSC_PRO2017_PROF_A_2018_H0107_09142018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_10052018.ctl
+	  *EXTRA File 		   25160	TESS_HCSC_PRO2017_PROF_A_2018_H0107_10052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_10122018.ctl
+	  *EXTRA File 		    8805	TESS_HCSC_PRO2017_PROF_A_2018_H0107_10122018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_11052018.ctl
+	  *EXTRA File 		   30681	TESS_HCSC_PRO2017_PROF_A_2018_H0107_11052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_11162018.ctl
+	  *EXTRA File 		    9875	TESS_HCSC_PRO2017_PROF_A_2018_H0107_11162018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H0107_12052018.ctl
+	  *EXTRA File 		   17388	TESS_HCSC_PRO2017_PROF_A_2018_H0107_12052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H0107_12142018.ctl
+	  *EXTRA File 		    2832	TESS_HCSC_PRO2017_PROF_A_2018_H0107_12142018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H3822_05312018.ctl
+	  *EXTRA File 		     654	TESS_HCSC_PRO2017_PROF_A_2018_H3822_05312018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H3822_06142019.ctl
+	  *EXTRA File 		    1185	TESS_HCSC_PRO2017_PROF_A_2018_H3822_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H3822_07052018.ctl
+	  *EXTRA File 		     405	TESS_HCSC_PRO2017_PROF_A_2018_H3822_07052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H3822_08162018.ctl
+	  *EXTRA File 		     391	TESS_HCSC_PRO2017_PROF_A_2018_H3822_08162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01042019.ctl
+	  *EXTRA File 		    2817	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01042019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01142019.ctl
+	  *EXTRA File 		    7933	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01172019.ctl
+	  *EXTRA File 		    7351	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01172019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01182019 (2).ctl
+	  *EXTRA File 		   16784	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01182019 (2).txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01182019.ctl
+	  *EXTRA File 		   16784	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01182019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01222019.ctl
+	  *EXTRA File 		   35500	TESS_HCSC_PRO2017_PROF_A_2018_H3979_01222019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_H3979_02052019.ctl
+	  *EXTRA File 		    1202	TESS_HCSC_PRO2017_PROF_A_2018_H3979_02052019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_04162018.ctl
+	  *EXTRA File 		    5419	TESS_HCSC_PRO2017_PROF_A_2018_H3979_04162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_05312018.ctl
+	  *EXTRA File 		    5075	TESS_HCSC_PRO2017_PROF_A_2018_H3979_05312018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_06052018.ctl
+	  *EXTRA File 		    6281	TESS_HCSC_PRO2017_PROF_A_2018_H3979_06052018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H3979_06142019.ctl
+	  *EXTRA File 		  111600	TESS_HCSC_PRO2017_PROF_A_2018_H3979_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_07052018.ctl
+	  *EXTRA File 		   10774	TESS_HCSC_PRO2017_PROF_A_2018_H3979_07052018.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2017_PROF_A_2018_H3979_08062018.ctl
+	  *EXTRA File 		   24450	TESS_HCSC_PRO2017_PROF_A_2018_H3979_08062018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_08162018.ctl
+	  *EXTRA File 		    1916	TESS_HCSC_PRO2017_PROF_A_2018_H3979_08162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_09052018.ctl
+	  *EXTRA File 		    6615	TESS_HCSC_PRO2017_PROF_A_2018_H3979_09052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_09142018.ctl
+	  *EXTRA File 		    3193	TESS_HCSC_PRO2017_PROF_A_2018_H3979_09142018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_10052018.ctl
+	  *EXTRA File 		    4075	TESS_HCSC_PRO2017_PROF_A_2018_H3979_10052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_10122018.ctl
+	  *EXTRA File 		    3325	TESS_HCSC_PRO2017_PROF_A_2018_H3979_10122018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_11052018.ctl
+	  *EXTRA File 		    2834	TESS_HCSC_PRO2017_PROF_A_2018_H3979_11052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_11162018.ctl
+	  *EXTRA File 		    1459	TESS_HCSC_PRO2017_PROF_A_2018_H3979_11162018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_12052018.ctl
+	  *EXTRA File 		    7933	TESS_HCSC_PRO2017_PROF_A_2018_H3979_12052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_H3979_12142018.ctl
+	  *EXTRA File 		    2523	TESS_HCSC_PRO2017_PROF_A_2018_H3979_12142018.txt
+	  *EXTRA File 		     366	TESS_HCSC_PRO2017_PROF_A_2018_H8634_01182019.ctl
+	  *EXTRA File 		   26742	TESS_HCSC_PRO2017_PROF_A_2018_H8634_01182019.txt
+	  *EXTRA File 		     366	TESS_HCSC_PRO2017_PROF_A_2018_H8634_06142019.ctl
+	  *EXTRA File 		   26644	TESS_HCSC_PRO2017_PROF_A_2018_H8634_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_S5715_06052018.ctl
+	  *EXTRA File 		     404	TESS_HCSC_PRO2017_PROF_A_2018_S5715_06052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_S5715_06142019.ctl
+	  *EXTRA File 		    4858	TESS_HCSC_PRO2017_PROF_A_2018_S5715_06142019.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2017_PROF_A_2018_S5715_07052018.ctl
+	  *EXTRA File 		    1160	TESS_HCSC_PRO2017_PROF_A_2018_S5715_07052018.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2017_PROF_A_2018_S5715_08062018.ctl
+	  *EXTRA File 		    2993	TESS_HCSC_PRO2017_PROF_A_2018_S5715_08062018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_S5715_08162018.ctl
+	  *EXTRA File 		     399	TESS_HCSC_PRO2017_PROF_A_2018_S5715_08162018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2017_PROF_A_2018_S5715_09052018.ctl
+	  *EXTRA File 		     412	TESS_HCSC_PRO2017_PROF_A_2018_S5715_09052018.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H0107_05172019.ctl
+	  *EXTRA File 		     467	TESS_HCSC_PRO2018_INST_A_2018_H0107_05172019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H0107_06142019.ctl
+	  *EXTRA File 		    1386	TESS_HCSC_PRO2018_INST_A_2018_H0107_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H0107_11272019.ctl
+	  *EXTRA File 		    1641	TESS_HCSC_PRO2018_INST_A_2018_H0107_11272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H0107_12132019.ctl
+	  *EXTRA File 		     456	TESS_HCSC_PRO2018_INST_A_2018_H0107_12132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H0107_12272019.ctl
+	  *EXTRA File 		     441	TESS_HCSC_PRO2018_INST_A_2018_H0107_12272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_01032020.ctl
+	  *EXTRA File 		     738	TESS_HCSC_PRO2018_INST_A_2018_H3979_01032020.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_01172020.ctl
+	  *EXTRA File 		     452	TESS_HCSC_PRO2018_INST_A_2018_H3979_01172020.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_07122019.ctl
+	  *EXTRA File 		     755	TESS_HCSC_PRO2018_INST_A_2018_H3979_07122019.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2018_INST_A_2018_H3979_08162019.ctl
+	  *EXTRA File 		    2597	TESS_HCSC_PRO2018_INST_A_2018_H3979_08162019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_09132019.ctl
+	  *EXTRA File 		     436	TESS_HCSC_PRO2018_INST_A_2018_H3979_09132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_11152019.ctl
+	  *EXTRA File 		     743	TESS_HCSC_PRO2018_INST_A_2018_H3979_11152019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_11272019.ctl
+	  *EXTRA File 		     455	TESS_HCSC_PRO2018_INST_A_2018_H3979_11272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_12132019.ctl
+	  *EXTRA File 		     746	TESS_HCSC_PRO2018_INST_A_2018_H3979_12132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2018_H3979_12272019.ctl
+	  *EXTRA File 		     453	TESS_HCSC_PRO2018_INST_A_2018_H3979_12272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_INST_A_2019_H3979_12132019.ctl
+	  *EXTRA File 		     439	TESS_HCSC_PRO2018_INST_A_2019_H3979_12132019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H0107_05172019.ctl
+	  *EXTRA File 		   15464	TESS_HCSC_PRO2018_PROF_A_2018_H0107_05172019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2018_H0107_06142019.ctl
+	  *EXTRA File 		   27256	TESS_HCSC_PRO2018_PROF_A_2018_H0107_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2018_H0107_08232019.ctl
+	  *EXTRA File 		    1419	TESS_HCSC_PRO2018_PROF_A_2018_H0107_08232019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H0107_11272019.ctl
+	  *EXTRA File 		   20881	TESS_HCSC_PRO2018_PROF_A_2018_H0107_11272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2018_H0107_12132019.ctl
+	  *EXTRA File 		     409	TESS_HCSC_PRO2018_PROF_A_2018_H0107_12132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2018_H0107_12272019.ctl
+	  *EXTRA File 		     407	TESS_HCSC_PRO2018_PROF_A_2018_H0107_12272019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_01032020.ctl
+	  *EXTRA File 		    6803	TESS_HCSC_PRO2018_PROF_A_2018_H3979_01032020.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_01172020.ctl
+	  *EXTRA File 		    5865	TESS_HCSC_PRO2018_PROF_A_2018_H3979_01172020.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_07122019.ctl
+	  *EXTRA File 		    5549	TESS_HCSC_PRO2018_PROF_A_2018_H3979_07122019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2018_H3979_08162019.ctl
+	  *EXTRA File 		   29217	TESS_HCSC_PRO2018_PROF_A_2018_H3979_08162019.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2018_PROF_A_2018_H3979_09132019.ctl
+	  *EXTRA File 		    2675	TESS_HCSC_PRO2018_PROF_A_2018_H3979_09132019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_11152019.ctl
+	  *EXTRA File 		   14850	TESS_HCSC_PRO2018_PROF_A_2018_H3979_11152019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_11272019.ctl
+	  *EXTRA File 		   11971	TESS_HCSC_PRO2018_PROF_A_2018_H3979_11272019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_12132019.ctl
+	  *EXTRA File 		   15324	TESS_HCSC_PRO2018_PROF_A_2018_H3979_12132019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2018_H3979_12272019.ctl
+	  *EXTRA File 		    3073	TESS_HCSC_PRO2018_PROF_A_2018_H3979_12272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2018_H8634_08162019.ctl
+	  *EXTRA File 		     938	TESS_HCSC_PRO2018_PROF_A_2018_H8634_08162019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H0107_01172020.ctl
+	  *EXTRA File 		     394	TESS_HCSC_PRO2018_PROF_A_2019_H0107_01172020.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2019_H0107_05172019.ctl
+	  *EXTRA File 		   29012	TESS_HCSC_PRO2018_PROF_A_2019_H0107_05172019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2019_H0107_06142019.ctl
+	  *EXTRA File 		   41220	TESS_HCSC_PRO2018_PROF_A_2019_H0107_06142019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H0107_11152019.ctl
+	  *EXTRA File 		   25360	TESS_HCSC_PRO2018_PROF_A_2019_H0107_11152019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H0107_11272019.ctl
+	  *EXTRA File 		    1231	TESS_HCSC_PRO2018_PROF_A_2019_H0107_11272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H0107_12132019.ctl
+	  *EXTRA File 		     668	TESS_HCSC_PRO2018_PROF_A_2019_H0107_12132019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H0107_12272019.ctl
+	  *EXTRA File 		    3061	TESS_HCSC_PRO2018_PROF_A_2019_H0107_12272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_01032020.ctl
+	  *EXTRA File 		     403	TESS_HCSC_PRO2018_PROF_A_2019_H3979_01032020.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_01172020.ctl
+	  *EXTRA File 		    1258	TESS_HCSC_PRO2018_PROF_A_2019_H3979_01172020.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2019_H3979_04122019.ctl
+	  *EXTRA File 		   30441	TESS_HCSC_PRO2018_PROF_A_2019_H3979_04122019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H3979_05172019.ctl
+	  *EXTRA File 		   22769	TESS_HCSC_PRO2018_PROF_A_2019_H3979_05172019.txt
+	  *EXTRA File 		     367	TESS_HCSC_PRO2018_PROF_A_2019_H3979_06142019.ctl
+	  *EXTRA File 		   60397	TESS_HCSC_PRO2018_PROF_A_2019_H3979_06142019.txt
+	  *EXTRA File 		     364	TESS_HCSC_PRO2018_PROF_A_2019_H3979_07122019.ctl
+	  *EXTRA File 		    2322	TESS_HCSC_PRO2018_PROF_A_2019_H3979_07122019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H3979_08162019.ctl
+	  *EXTRA File 		    5733	TESS_HCSC_PRO2018_PROF_A_2019_H3979_08162019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_08232019.ctl
+	  *EXTRA File 		    1772	TESS_HCSC_PRO2018_PROF_A_2019_H3979_08232019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H3979_09132019.ctl
+	  *EXTRA File 		    3754	TESS_HCSC_PRO2018_PROF_A_2019_H3979_09132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_10112019.ctl
+	  *EXTRA File 		     692	TESS_HCSC_PRO2018_PROF_A_2019_H3979_10112019.txt
+	  *EXTRA File 		     365	TESS_HCSC_PRO2018_PROF_A_2019_H3979_11152019.ctl
+	  *EXTRA File 		    5779	TESS_HCSC_PRO2018_PROF_A_2019_H3979_11152019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_11272019.ctl
+	  *EXTRA File 		    2027	TESS_HCSC_PRO2018_PROF_A_2019_H3979_11272019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H3979_12132019.ctl
+	  *EXTRA File 		     927	TESS_HCSC_PRO2018_PROF_A_2019_H3979_12132019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H8634_04122019.ctl
+	  *EXTRA File 		     413	TESS_HCSC_PRO2018_PROF_A_2019_H8634_04122019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H8634_05172019.ctl
+	  *EXTRA File 		     390	TESS_HCSC_PRO2018_PROF_A_2019_H8634_05172019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H8634_06142019.ctl
+	  *EXTRA File 		     948	TESS_HCSC_PRO2018_PROF_A_2019_H8634_06142019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H8634_08162019.ctl
+	  *EXTRA File 		     426	TESS_HCSC_PRO2018_PROF_A_2019_H8634_08162019.txt
+	  *EXTRA File 		     363	TESS_HCSC_PRO2018_PROF_A_2019_H8634_11152019.ctl
+	  *EXTRA File 		     389	TESS_HCSC_PRO2018_PROF_A_2019_H8634_11152019.txt
+	  *EXTRA File 		     362	TESS_HCSC_SD19_PROF_A_2019_H0107_02052019.ctl
+	  *EXTRA File 		    3929	TESS_HCSC_SD19_PROF_A_2019_H0107_02052019.txt
+	  *EXTRA File 		     362	TESS_HCSC_SD19_PROF_A_2019_H0107_06142019.ctl
+	  *EXTRA File 		    3915	TESS_HCSC_SD19_PROF_A_2019_H0107_06142019.txt
+	  *EXTRA File 		     360	TESS_HCSC_SD19_PROF_A_2019_H3979_02052019.ctl
+	  *EXTRA File 		    1200	TESS_HCSC_SD19_PROF_A_2019_H3979_02052019.txt
+	  *EXTRA File 		     360	TESS_HCSC_SD19_PROF_A_2019_H3979_06142019.ctl
+	  *EXTRA File 		    1197	TESS_HCSC_SD19_PROF_A_2019_H3979_06142019.txt
+	  *EXTRA File 		  529920	Thumbs.db
+	    Older     		     388	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.DELETE_2020_H0107_20230616152542.ctl  0%  100%  
+	    Older     		     388	HCSC.PROD.MAO.WIP0008.1B.TESS.P.CARE.DELETE_2021_H0107_20230616152510.ctl  0%  100%  
+	    Older     		     388	HCSC.PROD.MAO.WIP0008.2B.TESS.I.CARE.DELETE_2021_H0107_20230616152506.ctl  0%  100%  
+	    Older     		     388	HCSC.PROD.MAO.WIP0008.2B.TESS.P.CARE.DELETE_2021_H0107_20230616152503.ctl  0%  100%  
+	    Older     		     390	HCSC.PROD.MAO.WIP0008.3CDIB.TESS.P.CARE.ADD_2023_H0107_20230616152603.ctl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         5
+   Files :        34         5        29         0         0      1492
+   Bytes :    44.2 k     1.8 k    42.3 k         0         0  701.58 m
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :               11914 Bytes/sec.
+   Speed :               0.681 MegaBytes/min.
+   Ended : Wednesday, July 19, 2023 1:18:50 AM
+

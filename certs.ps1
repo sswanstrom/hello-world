@@ -13,6 +13,7 @@ Get-ChildItem -Path IIS:SSLBindings | ForEach-Object -Process `
             CertificateDnsNameList       = $certificate.DnsNameList
             CertificateNotAfter          = $certificate.NotAfter
             CertificateIssuer            = $certificate.Issuer
+	    CertificateThumbprint	 = $certificate.Thumbprint
         }
     }
 }

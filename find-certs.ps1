@@ -1,4 +1,4 @@
-Import-Module -Name WebAdministration
+# Import-Module -Name WebAdministration
 
 Get-ChildItem -Path IIS:SSLBindings | ForEach-Object -Process `
 {

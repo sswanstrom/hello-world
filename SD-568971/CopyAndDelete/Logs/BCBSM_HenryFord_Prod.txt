@@ -1,0 +1,249 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 19, 2023 1:18:05 AM
+   Source : T:\Shares\DataExchangeSFTP_Prod\BCBSM_HenryFord_Prod\FromDDDS\
+     Dest : T:\Shares\DataExchangeArchive_Prod\BCBSM-HenryFord\FromDDDS\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DA /COPY:DAT /MOV /MINAGE:30 /R:3 /W:10 
+
+------------------------------------------------------------------------------
+
+	                   0	T:\Shares\DataExchangeSFTP_Prod\BCBSM_HenryFord_Prod\FromDDDS\
+	  *EXTRA File 		   1.8 m	BCBS_MemberRoster_2023_04.txt
+	  *EXTRA File 		   1.5 m	Copy of Henry Ford Roster April 2022.xlsx
+	  *EXTRA File 		 118.3 m	Henry Ford Medical Group-201702.zip
+	  *EXTRA File 		 154.8 m	Henry Ford Medical Group.zip
+	  *EXTRA File 		 123.0 m	HFMC - 201611.zip
+	  *EXTRA File 		 686.9 m	HFMC - 202003.zip
+	  *EXTRA File 		 795.1 m	HFMC - 202005.zip
+	  *EXTRA File 		  11.6 m	HFMC Detroit Northwest.zip
+	  *EXTRA File 		 117.5 m	HFMC_201701.zip
+	  *EXTRA File 		 135.7 m	HFMC_201703.zip
+	  *EXTRA File 		 135.4 m	HFMC_201704.zip
+	  *EXTRA File 		 134.8 m	HFMC_20170525.zip
+	  *EXTRA File 		 152.1 m	HFMC_201711.zip
+	  *EXTRA File 		 149.0 m	HFMC_201801.zip
+	  *EXTRA File 		 149.0 m	HFMC_20180118.zip
+	  *EXTRA File 		 159.5 m	HFMC_201802.zip
+	  *EXTRA File 		 159.3 m	HFMC_201803.zip
+	  *EXTRA File 		 155.1 m	HFMC_201804.zip
+	  *EXTRA File 		 151.9 m	HFMC_201805.zip
+	  *EXTRA File 		  89.7 m	HFMC_201807.7z
+	  *EXTRA File 		 174.0 m	HFMC_201807.zip
+	  *EXTRA File 		 198.7 m	HFMC_201808.zip
+	  *EXTRA File 		 202.3 m	HFMC_201810.zip
+	  *EXTRA File 		 214.3 m	HFMC_201811.zip
+	  *EXTRA File 		 221.1 m	HFMC_201901.zip
+	  *EXTRA File 		 231.7 m	HFMC_201902.zip
+	  *EXTRA File 		 234.5 m	HFMC_201903.zip
+	  *EXTRA File 		 232.6 m	HFMC_201904.zip
+	  *EXTRA File 		 232.8 m	HFMC_201905.zip
+	  *EXTRA File 		 228.3 m	HFMC_201906.zip
+	  *EXTRA File 		 242.4 m	HFMC_201907.zip
+	  *EXTRA File 		 240.0 m	HFMC_201908.zip
+	  *EXTRA File 		 240.0 m	HFMC_201909.zip
+	  *EXTRA File 		 238.3 m	HFMC_201910.zip
+	  *EXTRA File 		 237.0 m	HFMC_201911.zip
+	  *EXTRA File 		 741.1 m	HFMC_202001.zip
+	  *EXTRA File 		 729.5 m	HFMC_202003.zip
+	  *EXTRA File 		 795.7 m	HFMC_202004.zip
+	  *EXTRA File 		 852.8 m	HFMC_202006.zip
+	  *EXTRA File 		 839.9 m	HFMC_202007.zip
+	  *EXTRA File 		 754.8 m	HFMC_202008.zip
+	  *EXTRA File 		 840.8 m	HFMC_202010.zip
+	  *EXTRA File 		 863.9 m	HFMC_202011.zip
+	  *EXTRA File 		 839.6 m	HFMC_202102.zip
+	  *EXTRA File 		 875.7 m	HFMC_202103.zip
+	  *EXTRA File 		 916.8 m	HFMC_202106.zip
+	  *EXTRA File 		 919.5 m	HFMC_202107.zip
+	  *EXTRA File 		 922.9 m	HFMC_202108.zip
+	  *EXTRA File 		 922.0 m	HFMC_202109.zip
+	  *EXTRA File 		 927.0 m	HFMC_202110.zip
+	  *EXTRA File 		 930.5 m	HFMC_202111.zip
+	  *EXTRA File 		 770.3 m	HFMC_202201 - 2.zip
+	  *EXTRA File 		 938.8 m	HFMC_202201.zip
+	  *EXTRA File 		 347.8 m	HFMC_202203.zip
+	  *EXTRA File 		 756.5 m	HFMC_202204.zip
+	  *EXTRA File 		 764.7 m	HFMC_202205.zip
+	  *EXTRA File 		 761.0 m	HFMC_202206.zip
+	  *EXTRA File 		 684.0 m	HFMC_202207.zip
+	  *EXTRA File 		 773.8 m	HFMC_202208.zip
+	  *EXTRA File 		 768.8 m	HFMC_202209.zip
+	  *EXTRA File 		 765.9 m	HFMC_202210.zip
+	  *EXTRA File 		 760.2 m	HFMC_202211.zip
+	  *EXTRA File 		 755.9 m	HFMC_202301.zip
+	  *EXTRA File 		 727.7 m	HFMC_202302.zip
+	  *EXTRA File 		 724.5 m	HFMC_202303.zip
+	  *EXTRA File 		 724.6 m	HFMC_202304.zip
+	  *EXTRA File 		 732.2 m	HFMC_202305.zip
+	  *EXTRA File 		 728.6 m	HFMC_202306.zip
+	  *EXTRA File 		   6.5 m	HFMC_CDIALERTS_20170510.zip
+	  *EXTRA File 		  10.1 m	HFMC_CDIALERTS_20170524.zip
+	  *EXTRA File 		   8.0 m	HFMC_CDIALERTS_20170531.zip
+	  *EXTRA File 		   6.9 m	HFMC_CDIALERTS_20170607.zip
+	  *EXTRA File 		  14.1 m	HFMC_CDIALERTS_20170823.zip
+	  *EXTRA File 		   9.2 m	HFMC_CDIALERTS_20170830.zip
+	  *EXTRA File 		   9.8 m	HFMC_CDIALERTS_20171004.zip
+	  *EXTRA File 		   5.6 m	HFMC_CDIALERTS_20171010.zip
+	  *EXTRA File 		   6.7 m	HFMC_CDIALERTS_20171101.zip
+	  *EXTRA File 		 859.2 m	HFMC__202101.zip
+	  *EXTRA File 		  259995	HFMG GAP REPORT AUGUST 2017.xlsx
+	  *EXTRA File 		  411684	HFMG GAPS.xlsx
+	  *EXTRA File 		 201.8 m	HFMG_201809.zip
+	  *EXTRA File 		 215.4 m	HFMG_201901 (2).zip
+	  *EXTRA File 		 215.4 m	HFMG_201901.zip
+	  *EXTRA File 		   7.0 m	HFMG_CDI ALERTS_20170705.zip
+	  *EXTRA File 		   5.0 m	HFMG_CDIALERTS_2010_FEB10.zip
+	  *EXTRA File 		   9.1 m	HFMG_CDIALERTS_20170517.zip
+	  *EXTRA File 		   8.0 m	HFMG_CDIALERTS_20170614.zip
+	  *EXTRA File 		   7.0 m	HFMG_CDIALERTS_20170621.zip
+	  *EXTRA File 		   7.5 m	HFMG_CDIALERTS_20170712.zip
+	  *EXTRA File 		   7.3 m	HFMG_CDIALERTS_20170719.zip
+	  *EXTRA File 		   8.5 m	HFMG_CDIALERTS_20170802.zip
+	  *EXTRA File 		   7.7 m	HFMG_CDIALERTS_20170809.zip
+	  *EXTRA File 		   5.9 m	HFMG_CDIALERTS_20170816.zip
+	  *EXTRA File 		   9.8 m	HFMG_CDIALERTS_20170908.zip
+	  *EXTRA File 		   9.5 m	HFMG_CDIALERTS_20170913.zip
+	  *EXTRA File 		   9.3 m	HFMG_CDIALERTS_20170920.zip
+	  *EXTRA File 		  10.7 m	HFMG_CDIALERTS_20170927.zip
+	  *EXTRA File 		   6.0 m	HFMG_CDIALERTS_20171018.zip
+	  *EXTRA File 		   6.5 m	HFMG_CDIALERTS_20171025.zip
+	  *EXTRA File 		   4.5 m	HFMG_CDIALERTS_20171108.zip
+	  *EXTRA File 		   5.1 m	HFMG_CDIALERTS_20171115.zip
+	  *EXTRA File 		   7.4 m	HFMG_CDIALERTS_20171122.zip
+	  *EXTRA File 		   7.5 m	HFMG_CDIALERTS_20171129.zip
+	  *EXTRA File 		   3.7 m	HFMG_CDIALERTS_20171206.zip
+	  *EXTRA File 		   3.5 m	HFMG_CDIALERTS_20171213.zip
+	  *EXTRA File 		   5.7 m	HFMG_CDIALERTS_20171220.zip
+	  *EXTRA File 		   6.8 m	HFMG_CDIALERTS_20171227.zip
+	  *EXTRA File 		   7.0 m	HFMG_CDIALERTS_20180103.zip
+	  *EXTRA File 		   5.9 m	HFMG_CDIALERTS_20180117.zip
+	  *EXTRA File 		  710206	HFMG_CDIALERTS_2018FEB14.zip
+	  *EXTRA File 		  724576	HFMG_CDIALERTS_2018FEB21.zip
+	  *EXTRA File 		  761970	HFMG_CDIALERTS_2018FEB28.zip
+	  *EXTRA File 		  694667	HFMG_CDIALERTS_2018FEB7.zip
+	  *EXTRA File 		   5.2 m	HFMG_CDIALERTS_2018JAN10.zip
+	  *EXTRA File 		   5.2 m	HFMG_CDIALERTS_2018JAN10_OLD.zip
+	  *EXTRA File 		   4.3 m	HFMG_CDIALERTS_2018JAN24.zip
+	  *EXTRA File 		   1.4 m	HFMG_CDIALERTS_2018JAN26.zip
+	  *EXTRA File 		   6.0 m	HFMG_CDIALERTS_2018JAN31.zip
+	  *EXTRA File 		   1.0 m	HFMG_CDIALERTS_2018MAR14.zip
+	  *EXTRA File 		 1043626	HFMG_CDIALERTS_2018MAR28.zip
+	  *EXTRA File 		  892406	HFMG_CDIALERTS_2018MAR7.zip
+	  *EXTRA File 		   1.1 m	HFMG_CDIALERTS_2018_APR11.zip
+	  *EXTRA File 		   1.1 m	HFMG_CDIALERTS_2018_APR18.zip
+	  *EXTRA File 		   1.1 m	HFMG_CDIALERTS_2018_APR25.zip
+	  *EXTRA File 		 1042323	HFMG_CDIALERTS_2018_APR4.zip
+	  *EXTRA File 		   4.0 m	HFMG_CDIALERTS_2018_AUG 15.zip
+	  *EXTRA File 		   4.5 m	HFMG_CDIAlerts_2018_Aug07.zip
+	  *EXTRA File 		   5.5 m	HFMG_CDIALERTS_2018_AUG22.zip
+	  *EXTRA File 		   8.5 m	HFMG_CDIALERTS_2018_AUG29.zip
+	  *EXTRA File 		   1.6 m	HFMG_CDIALERTS_2018_DEC12.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2018_DEC18.zip
+	  *EXTRA File 		   4.3 m	HFMG_CDIALERTS_2018_DEC27.zip
+	  *EXTRA File 		   2.5 m	HFMG_CDIALERTS_2018_DEC5.zip
+	  *EXTRA File 		   5.4 m	HFMG_CDIALERTS_2018_JUL11.zip
+	  *EXTRA File 		   5.8 m	HFMG_CDIALERTS_2018_JUL18.zip
+	  *EXTRA File 		   4.2 m	HFMG_CDIALERTS_2018_JUL25.zip
+	  *EXTRA File 		   5.5 m	HFMG_CDIALERTS_2018_JUL3.zip
+	  *EXTRA File 		   5.7 m	HFMG_CDIALERTS_2018_JUL31.zip
+	  *EXTRA File 		   4.4 m	HFMG_CDIALERTS_2018_JUN13.zip
+	  *EXTRA File 		   4.6 m	HFMG_CDIALERTS_2018_JUN19.zip
+	  *EXTRA File 		   5.6 m	HFMG_CDIALERTS_2018_JUN27.zip
+	  *EXTRA File 		   4.7 m	HFMG_CDIALERTS_2018_JUN6.zip
+	  *EXTRA File 		 1042323	HFMG_CDIALERTS_2018_MAY 2.zip
+	  *EXTRA File 		   5.4 m	HFMG_CDIALERTS_2018_MAY16.zip
+	  *EXTRA File 		   5.4 m	HFMG_CDIALERTS_2018_MAY23.zip
+	  *EXTRA File 		   6.3 m	HFMG_CDIALERTS_2018_MAY30.zip
+	  *EXTRA File 		   4.6 m	HFMG_CDIALERTS_2018_NOV 27.zip
+	  *EXTRA File 		   4.7 m	HFMG_CDIALERTS_2018_NOV14.zip
+	  *EXTRA File 		   5.2 m	HFMG_CDIALERTS_2018_NOV21.zip
+	  *EXTRA File 		   3.4 m	HFMG_CDIALERTS_2018_NOV7.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2018_OCT10.zip
+	  *EXTRA File 		   4.8 m	HFMG_CDIALERTS_2018_OCT17.zip
+	  *EXTRA File 		   5.7 m	HFMG_CDIALERTS_2018_OCT24.zip
+	  *EXTRA File 		   5.6 m	HFMG_CDIALERTS_2018_OCT3.zip
+	  *EXTRA File 		   4.8 m	HFMG_CDIALERTS_2018_OCT31.zip
+	  *EXTRA File 		   5.1 m	HFMG_CDIALERTS_2018_SEP12.zip
+	  *EXTRA File 		   4.3 m	HFMG_CDIALERTS_2018_SEP19.zip
+	  *EXTRA File 		   5.7 m	HFMG_CDIALERTS_2018_SEP26.zip
+	  *EXTRA File 		   6.8 m	HFMG_CDIALERTS_2018_SEP5.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_APR 17.zip
+	  *EXTRA File 		   2.8 m	HFMG_CDIALERTS_2019_APR10.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2019_APR24.zip
+	  *EXTRA File 		   3.7 m	HFMG_CDIALERTS_2019_APR3.zip
+	  *EXTRA File 		   1.7 m	HFMG_CDIALERTS_2019_AUG15.zip
+	  *EXTRA File 		   4.4 m	HFMG_CDIALERTS_2019_AUG21.zip
+	  *EXTRA File 		   5.9 m	HFMG_CDIALERTS_2019_AUG28.zip
+	  *EXTRA File 		   3.7 m	HFMG_CDIALERTS_2019_AUG7.zip
+	  *EXTRA File 		   1.4 m	HFMG_CDIALERTS_2019_DEC11.zip
+	  *EXTRA File 		   1.2 m	HFMG_CDIALERTS_2019_DEC19.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2019_DEC2.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2019_DEC30.zip
+	  *EXTRA File 		   1.6 m	HFMG_CDIALERTS_2019_DEC5.zip
+	  *EXTRA File 		   4.7 m	HFMG_CDIALERTS_2019_FEB 27.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_FEB13.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_FEB20.zip
+	  *EXTRA File 		   3.4 m	HFMG_CDIALERTS_2019_FEB6.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_JAN16.zip
+	  *EXTRA File 		  404307	HFMG_CDIALERTS_2019_JAN2.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_JAN22.zip
+	  *EXTRA File 		   3.8 m	HFMG_CDIALERTS_2019_JAN30.zip
+	  *EXTRA File 		   7.5 m	HFMG_CDIALERTS_2019_JAN8.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2019_JUL10.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2019_JUL17.zip
+	  *EXTRA File 		   3.0 m	HFMG_CDIALERTS_2019_JUL2.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2019_JUL24.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2019_JUL31.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIAlerts_2019_JUN12.zip
+	  *EXTRA File 		   2.0 m	HFMG_CDIALERTS_2019_JUN19.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2019_JUN26.zip
+	  *EXTRA File 		   3.0 m	HFMG_CDIALERTS_2019_JUN5.zip
+	  *EXTRA File 		   3.3 m	HFMG_CDIALERTS_2019_MAR13.zip
+	  *EXTRA File 		   2.6 m	HFMG_CDIALERTS_2019_MAR20.zip
+	  *EXTRA File 		   3.8 m	HFMG_CDIALERTS_2019_MAR27.zip
+	  *EXTRA File 		   3.8 m	HFMG_CDIALERTS_2019_MAR6.zip
+	  *EXTRA File 		   2.5 m	HFMG_CDIALERTS_2019_MAY1.zip
+	  *EXTRA File 		   3.3 m	HFMG_CDIALERTS_2019_MAY15.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2019_MAY22.zip
+	  *EXTRA File 		   3.1 m	HFMG_CDIALERTS_2019_MAY29.zip
+	  *EXTRA File 		   2.8 m	HFMG_CDIALERTS_2019_MAY8.zip
+	  *EXTRA File 		   1.8 m	HFMG_CDIALERTS_2019_NOV13.zip
+	  *EXTRA File 		   2.3 m	HFMG_CDIALERTS_2019_NOV20.zip
+	  *EXTRA File 		   3.2 m	HFMG_CDIALERTS_2019_NOV6.zip
+	  *EXTRA File 		   5.7 m	HFMG_CDIALERTS_2019_OCT16.zip
+	  *EXTRA File 		   3.1 m	HFMG_CDIALERTS_2019_OCT2.zip
+	  *EXTRA File 		   4.5 m	HFMG_CDIALERTS_2019_OCT23.zip
+	  *EXTRA File 		   6.3 m	HFMG_CDIALERTS_2019_OCT30.zip
+	  *EXTRA File 		   3.5 m	HFMG_CDIALERTS_2019_OCT9.zip
+	  *EXTRA File 		   4.3 m	HFMG_CDIALERTS_2019_SEP11.zip
+	  *EXTRA File 		   4.1 m	HFMG_CDIALERTS_2019_SEP18.zip
+	  *EXTRA File 		   4.7 m	HFMG_CDIALERTS_2019_SEP25.zip
+	  *EXTRA File 		   4.4 m	HFMG_CDIALERTS_2019_SEP4.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2020_FEB19.zip
+	  *EXTRA File 		   3.0 m	HFMG_CDIALERTS_2020_FEB24.zip
+	  *EXTRA File 		   2.3 m	HFMG_CDIALERTS_2020_FEB5.zip
+	  *EXTRA File 		   2.7 m	HFMG_CDIALERTS_2020_JAN15.zip
+	  *EXTRA File 		   2.9 m	HFMG_CDIALERTS_2020_JAN22.zip
+	  *EXTRA File 		   2.3 m	HFMG_CDIALERTS_2020_JAN29.zip
+	  *EXTRA File 		   2.1 m	HFMG_CDIALERTS_2020_JAN8.zip
+	  *EXTRA File 		  478072	HFMG_CDIALERTS_2020_MAR11.zip
+	  *EXTRA File 		   2.6 m	HFMG_CDIALERTS_2020_MAR18.zip
+	  *EXTRA File 		   2.1 m	HFMG_CDIALERTS_2020_MAR25.zip
+	  *EXTRA File 		   3.2 m	HFMG_CDIALERTS_2020_MAR4.zip
+	  *EXTRA File 		 237.8 m	IHA_201801.zip
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0       223
+   Bytes :         0         0         0         0         0  34.671 g
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, July 19, 2023 1:18:05 AM
+

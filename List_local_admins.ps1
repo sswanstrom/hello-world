@@ -1,5 +1,5 @@
 $servers= get-content 'servers.txt'
-$output = 'GroupOutput.csv' 
+$output = 'output2.csv' 
 $results = @()
 
 foreach($server in $servers)

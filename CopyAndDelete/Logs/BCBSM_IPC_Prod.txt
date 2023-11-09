@@ -1,0 +1,72 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 19, 2023 1:18:06 AM
+   Source : T:\Shares\DataExchangeSFTP_Prod\BCBSM_IPC_Prod\FromTessellate\
+     Dest : T:\Shares\DataExchangeArchive_Prod\BCBSM-IPC\FromTessellate\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DA /COPY:DAT /MOV /MINAGE:30 /R:3 /W:10 
+
+------------------------------------------------------------------------------
+
+	                 100	T:\Shares\DataExchangeSFTP_Prod\BCBSM_IPC_Prod\FromTessellate\
+	  *EXTRA File 		  42.1 m	BCBSM_20181102000001_MRR_Associates_Internal_Medicine.zip
+	  *EXTRA File 		  13.3 m	BCBSM_20181102000001_MRR_Canton_Family_Medicine.zip
+	  *EXTRA File 		  12.2 m	BCBSM_20181102000001_MRR_Livonia_Internal_Medicine.zip
+	  *EXTRA File 		  19.4 m	BCBSM_20181102000001_MRR_Primary_Care_Internal_Medicine.zip
+	  *EXTRA File 		   9.3 m	BCBSM_20181102000001_MRR_Vital_Internal_Medicine.zip
+	  *EXTRA File 		  14.0 m	BCBSM_20181102000001_MRR_West_Bloomfield_Family_Practice.zip
+	  *EXTRA File 		  29.6 m	BCBSM_20181102120000_MRR_Park_Family_Practice.zip
+	  *EXTRA File 		  43.0 m	BCBSM_20181102160000_MRR_Livonia_Family_Practice.zip
+	  *EXTRA File 		  44.4 m	BCBSM_20181102160000_MRR_Novi_Family_Care.zip
+	  *EXTRA File 		  13.3 m	BCBSM_20181113120001_MRR_Canton_Family_Medicine.zip
+	  *EXTRA File 		  12.2 m	BCBSM_20181113120001_MRR_Livonia_Internal_Medicine.zip
+	  *EXTRA File 		  29.6 m	BCBSM_20181113120001_MRR_Park_Family_Practice.zip
+	  *EXTRA File 		  19.4 m	BCBSM_20181113120001_MRR_Primary_Care_Internal_Medicine.zip
+	  *EXTRA File 		   9.3 m	BCBSM_20181113120001_MRR_Vital_Internal_Medicine.zip
+	  *EXTRA File 		  14.0 m	BCBSM_20181113120001_MRR_West_Bloomfield_Family_Practice.zip
+	  *EXTRA File 		  43.0 m	BCBSM_20181114000001_MRR_Livonia_Family_Practice.zip
+	  *EXTRA File 		  42.1 m	BCBSM_20181114200001_MRR_Associates_Internal_Medicine.zip
+	  *EXTRA File 		  44.4 m	BCBSM_20181118120001_MRR_Novi_Family_Care.zip
+	  *EXTRA File 		  13.1 m	BCBSM_20181202000001_MRR_Canton_Family_Medicine.zip
+	  *EXTRA File 		  12.0 m	BCBSM_20181202000001_MRR_Livonia_Internal_Medicine.zip
+	  *EXTRA File 		  29.3 m	BCBSM_20181202000001_MRR_Park_Family_Practice.zip
+	  *EXTRA File 		  19.3 m	BCBSM_20181202000001_MRR_Primary_Care_Internal_Medicine.zip
+	  *EXTRA File 		   9.2 m	BCBSM_20181202000001_MRR_Vital_Internal_Medicine.zip
+	  *EXTRA File 		  14.0 m	BCBSM_20181202000001_MRR_West_Bloomfield_Family_Practice.zip
+	  *EXTRA File 		  43.3 m	BCBSM_20181209040001_MRR_Livonia_Family_Practice.zip
+	  *EXTRA File 		  42.0 m	BCBSM_20181209080004_MRR_Associates_Internal_Medicine.zip
+	  *EXTRA File 		  13.1 m	BCBSM_20181220000000_MRR_Canton_Family_Medicine.zip
+	  *EXTRA File 		  12.0 m	BCBSM_20181220000000_MRR_Livonia_Internal_Medicine.zip
+	  *EXTRA File 		   9.2 m	BCBSM_20181220000000_MRR_Vital_Internal_Medicine.zip
+	  *EXTRA File 		  13.1 m	BCBSM_20181220160000_MRR_Canton_Family_Medicine.zip
+	  *EXTRA File 		  43.3 m	BCBSM_20181220160000_MRR_Livonia_Family_Practice.zip
+	  *EXTRA File 		  12.0 m	BCBSM_20181220160000_MRR_Livonia_Internal_Medicine.zip
+	  *EXTRA File 		  88.8 m	BCBSM_20181220160000_MRR_Novi_Family_Care.zip
+	  *EXTRA File 		  19.3 m	BCBSM_20181220160000_MRR_Primary_Care_Internal_Medicine.zip
+	  *EXTRA File 		  14.0 m	BCBSM_20181220160000_MRR_West_Bloomfield_Family_Practice.zip
+	  *EXTRA File 		  42.0 m	BCBSM_20181221160001_MRR_Associates_Internal_Medicine.zip
+	  *EXTRA File 		  29.3 m	BCBSM_20181221160001_MRR_Park_Family_Practice.zip
+	  *EXTRA File 		  19.3 m	BCBSM_20181221160001_MRR_Primary_Care_Internal_Medicine.zip
+	  *EXTRA File 		  14.0 m	BCBSM_20181221160001_MRR_West_Bloomfield_Family_Practice.zip
+	  *EXTRA File 		  59.1 m	IPC_Alerts.zip
+	  *EXTRA File 		  39.8 m	IPC_Alerts_20171005.zip
+	  *EXTRA File 		  70.8 m	IPC_Alerts_20171130.zip
+	  *EXTRA File 		  72.5 m	IPC_Alerts_20180109.zip
+	  *EXTRA File 		  71.5 m	IPC_Alerts_20180514.zip
+	  *EXTRA File 		  76.6 m	IPC_Alerts_20180712.zip
+	  *EXTRA File 		  285597	IPC_Alerts_Canton Family Medicine.zip
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :       100         0       100         0         0        46
+   Bytes :   2.697 g         0   2.697 g         0         0   1.326 g
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, July 19, 2023 1:18:06 AM
+

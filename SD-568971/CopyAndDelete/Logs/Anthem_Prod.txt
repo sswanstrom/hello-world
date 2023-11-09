@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 19, 2023 1:18:05 AM
+   Source : T:\Shares\DataExchangeSFTP_Prod\Anthem_Prod\FromTessellate\
+     Dest : T:\Shares\DataExchangeArchive_Prod\Anthem\FromTessllate\
+
+    Files : *.*
+	    
+  Options : *.* /S /DCOPY:DA /COPY:DAT /MOV /MINAGE:30 /R:3 /W:10 
+
+------------------------------------------------------------------------------
+
+	                   0	T:\Shares\DataExchangeSFTP_Prod\Anthem_Prod\FromTessellate\
+	  *EXTRA File 		  18.1 m	13A_MR_202112170458_Request.txt
+	  *EXTRA File 		       0	TestFileFromTessellate.txt
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         2
+   Bytes :         0         0         0         0         0   18.18 m
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, July 19, 2023 1:18:05 AM
+

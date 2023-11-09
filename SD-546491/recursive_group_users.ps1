@@ -1,4 +1,4 @@
-$groups = get-content c02_admins.txt
+$groups = get-content WSR01_Groups.txt
 
 ForEach ($group in $groups) {
 
@@ -8,9 +8,10 @@ ForEach ($Member in $groupmem){
 
     $ADUser = $Member | Get-ADUser -Properties SamAccountName
     [PSCustomObject]@{
+	    Group = $group
             User = $Member.Name
             UserID = $ADUser.SamAccountName
            
-} | export-csv c02_admins.csv -append
+} | export-csv WSR01_Admins.csv -append
 }
 }

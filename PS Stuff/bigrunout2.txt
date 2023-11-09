@@ -1,0 +1,413 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"SAMaccountName","Enabled","LastLogonDate"
+"___VMware_Conv_SA___","True",
+"___VMware_Conv_SA___","True",
+"___VMware_Conv_SA___","True",
+"172-HTTP","True","4/20/2015 6:05:36 AM"
+"AAD_69a42d8829f0","True","11/27/2018 11:02:54 PM"
+"AAD_deb975960dd7","True","2/11/2022 4:03:26 PM"
+"abchealth.performrx","True","3/23/2018 4:14:46 PM"
+"accessma-claims-prod","True","10/6/2018 11:51:32 PM"
+"acs","True","2/11/2022 4:02:03 AM"
+"AcsGchpClaims","True","4/18/2019 11:52:23 PM"
+"acs-gchp-claimsstg","True","12/8/2021 12:24:16 AM"
+"adam","True",
+"adam-sa","True","2/3/2022 10:21:27 PM"
+"ADFS__DEV_DBY","True","10/17/2016 10:44:21 AM"
+"ADFS_TRN_ABCCO","True","11/16/2021 9:12:59 AM"
+"adfspoc","True",
+"adfstest","True",
+"adminuser","True","12/6/2017 10:33:22 AM"
+"afc_feed","True","11/4/2021 3:00:00 AM"
+"afc_nc","True","2/7/2021 2:51:47 AM"
+"afc_op","True","11/19/2021 2:47:00 PM"
+"afc_sc","True","1/30/2021 2:34:48 AM"
+"afcnc-claims-prod","True","5/5/2021 8:05:04 PM"
+"afcnc-medicaregw","True","5/4/2021 9:11:03 PM"
+"afcnc-portal","True","9/7/2021 10:49:44 PM"
+"afcnc-portals-prod","True","5/3/2021 1:04:13 AM"
+"afcnc-portals-test","True","9/11/2017 12:45:39 AM"
+"afcop","True","11/8/2021 6:04:42 AM"
+"afcop-claims-prod","True","5/11/2021 8:05:06 PM"
+"afcop-medicaregw","True","5/8/2021 5:16:43 AM"
+"afcop-portals","True","4/13/2018 1:47:48 AM"
+"afc-portals","True","11/5/2021 11:13:29 AM"
+"afcsc-claims-prod","True","5/7/2021 8:05:04 PM"
+"afcsc-medicaregw","True","5/5/2021 5:55:01 PM"
+"afcsc-portals-prod","True","5/3/2021 1:04:13 AM"
+"afcsc-portals-test","True","10/2/2017 3:36:28 AM"
+"affinity_ny","True","12/9/2021 10:11:25 AM"
+"affinity_reps","True",
+"affinity-claimsid","True",
+"affinityny_odi","True","1/23/2020 12:01:14 AM"
+"affinity-wcfpro","True","8/21/2017 2:27:15 AM"
+"affinity-wcfPro","True","3/1/2021 2:12:18 AM"
+"affprovportal","True",
+"amerihm","True",
+"amerihm_mdwise","True",
+"amherst","True","7/28/2016 9:32:21 AM"
+"anhwt_hap","True","2/5/2022 9:57:59 PM"
+"aon","True","2/7/2022 9:54:59 PM"
+"AppealsandGrievances","True",
+"Apple","True",
+"AR_Enrollment","True",
+"ASPNET","True",
+"ASPNET","True",
+"atlantis-claims","True","4/18/2019 11:52:23 PM"
+"Atlantis-claims-Medi","True","2/13/2018 2:22:51 AM"
+"atlantisclaimsnew","True","6/8/2011 2:27:27 PM"
+"Atlantis-claims-Prod","True","10/6/2018 11:51:32 PM"
+"atlantis-medicaregw","True","2/14/2018 12:35:53 AM"
+"atlantis-portals","True","10/6/2018 11:51:32 PM"
+"avlty_chpw","True","8/22/2014 11:54:35 AM"
+"AzureADSync","True",
+"backup","True",
+"Baseball","True",
+"Basketball","True",
+"BCBS_Reports","True","6/17/2015 12:40:47 PM"
+"bcbsa","True","9/12/2015 3:15:46 PM"
+"bcbsm","True",
+"bcbsm_its","True","2/9/2022 7:45:52 AM"
+"BCBSNEP2P","True",
+"beaconhs","True",
+"beaconhs_jmhp","True",
+"beaconhs_passport","True",
+"beaconhsmd_passport","True",
+"beehive","True",
+"bentley","True","2/16/2017 6:29:25 PM"
+"beyondtrust","True",
+"bhs_affny","True","2/10/2022 12:16:03 AM"
+"billinginformation","True",
+"BizTalk_IsoAdmin","True",
+"BizTalk_PRD","True","2/6/2022 12:06:44 AM"
+"BizTalk_TST","True","12/11/2021 9:03:44 PM"
+"biztalkqa","True",
+"biztlkprod_feed","True",
+"bloom","True",
+"boa_hphc","True","2/8/2022 2:04:13 AM"
+"Boardroom","True",
+"btrequestor","True","10/16/2017 12:09:55 PM"
+"buildguy","True","4/7/2018 9:41:51 PM"
+"bvision","True",
+"bvision_passport","True",
+"bvisiont","True",
+"bvsn_affny","True","4/23/2019 9:53:27 AM"
+"CABjoinme","True",
+"carem_affny","True","11/26/2018 11:08:05 PM"
+"CAS_ceedadea795e405d","True","4/17/2015 12:47:20 AM"
+"ccore_affny","True","1/17/2019 12:32:12 PM"
+"cd_isftp","True",
+"chpw_reports","True","4/13/2015 2:27:11 AM"
+"claimstraining","True","10/31/2021 11:57:47 PM"
+"cmcm_chpw","True","12/4/2014 1:46:25 PM"
+"cms-aemc-claims","True","4/18/2019 11:52:23 PM"
+"Columbia","True",
+"command","True",
+"cph_chpw","True","5/30/2014 3:46:00 PM"
+"cpsadmin","True",
+"cpsmvp","True","10/10/2018 12:12:16 AM"
+"cpsprod","True","8/2/2013 5:19:34 PM"
+"cpsrepl","True","10/10/2018 12:12:33 AM"
+"cpsrepl","True","6/26/2014 9:06:04 AM"
+"crm","True","3/17/2017 11:53:59 AM"
+"ctmagnt","True","2/8/2022 5:30:01 PM"
+"ctmagnt","True","2/9/2022 1:40:00 AM"
+"ctmagnt","True","7/23/2021 8:48:52 PM"
+"ctmagnt","True","2/8/2022 3:13:54 PM"
+"ctmagnt","True","4/1/2021 5:07:09 AM"
+"ctmagnt","True","2/4/2022 6:45:48 PM"
+"ctmagnt","True","2/11/2022 11:19:06 AM"
+"ctmagnt","True","2/7/2022 8:00:03 PM"
+"CTMAGNT","True","2/7/2022 4:00:01 PM"
+"ctmagnt_horizon","True","3/14/2019 4:24:25 PM"
+"ctrlMnotifications","True","6/12/2018 9:14:08 AM"
+"datacenterFtP","True",
+"dell_affny","True","3/12/2019 9:43:03 AM"
+"dell_chpw","True","12/13/2017 12:53:51 PM"
+"dell_ikaHSS","True","1/3/2018 2:58:45 PM"
+"dellBPO_affny","True","12/6/2016 11:42:53 AM"
+"dell-claims","True","11/9/2021 9:40:58 PM"
+"dell-claims45-test","True",
+"dellclm_affny","True","12/11/2014 8:16:08 AM"
+"demoikacorr","True","11/15/2017 8:04:42 AM"
+"demoprohedis","True","3/16/2021 1:51:54 PM"
+"deploy134","True","11/6/2015 4:39:58 PM"
+"desktoptest2","True","1/28/2021 9:11:05 AM"
+"donotreply","True",
+"dr_file_rep","True","8/23/2015 11:00:01 PM"
+"dr_file_rep","True","9/13/2015 11:08:44 PM"
+"dr_file_rep","True","5/9/2021 9:59:59 PM"
+"DRReplication","True","1/22/2014 1:00:00 AM"
+"EA_Admins","True",
+"EASYCHOICE-PORTALS-p","True","2/12/2018 12:41:27 AM"
+"easyshare-portals","True","4/18/2019 11:52:23 PM"
+"ehealth_hphcP","True","2/6/2022 1:00:28 AM"
+"ehealth_hphcT","True","2/3/2022 1:00:11 AM"
+"emdeon","True",
+"emdeon_jmhp","True",
+"emdeonfhp","True","2/8/2022 1:16:43 PM"
+"EmdeonMED","True","2/3/2022 12:59:10 PM"
+"emdn_affny","True","2/4/2022 11:41:33 PM"
+"emdn_hphc","True","2/4/2022 8:35:42 PM"
+"Emerson","True",
+"eschc_img","True","12/3/2019 9:32:02 AM"
+"esi_chpw","True","12/12/2014 4:23:38 PM"
+"extendh_hap","True","2/10/2022 1:15:03 AM"
+"extract_prod","True","10/20/2016 12:56:08 PM"
+"extract_test","True","10/20/2016 12:56:54 PM"
+"fenway","True",
+"fh_medicaid","True","2/5/2021 2:37:04 AM"
+"Football","True",
+"freedom","True","12/24/2021 12:05:04 PM"
+"Freedom_CMS","True",
+"freedomafcdr","True",
+"Freedomma-claims-pr1","True",
+"FreedomMA-Claims-Pro","True","5/8/2021 8:05:17 PM"
+"FreedomMa-Portals-Pr","True","5/11/2021 8:05:54 PM"
+"FreedomMC-Claims-Pro","True","5/5/2021 8:05:03 PM"
+"freedommc-portals","True","5/10/2021 8:05:04 PM"
+"FreedomMC-Portals-Pr","True",
+"Freedommc-portals-ts","True","9/24/2017 2:42:19 PM"
+"freedom-medicaregw","True","5/7/2021 3:06:25 PM"
+"Freedom-portals","True","4/15/2021 7:05:17 AM"
+"FRGE_DEV_ADMIN","True","1/15/2022 8:05:40 PM"
+"FRGE_DEV_APP","True","2/7/2022 7:30:09 AM"
+"FTPConfigUser","True","3/3/2020 10:35:25 AM"
+"ftptest","True","1/20/2015 9:22:43 AM"
+"ftpuser","True","4/23/2015 3:56:35 AM"
+"gatewayrm","True",
+"gdma-vc01","True","2/23/2016 11:12:56 AM"
+"gg_iisadmin","True",
+"ghc","True","9/13/2016 11:33:08 AM"
+"GHC_Reports","True",
+"ghcstg","True","2/18/2016 1:08:49 PM"
+"ghctst","True","2/18/2016 1:08:51 PM"
+"GroudWork_Admin","True",
+"gwBuildUser","True","4/21/2017 11:00:01 PM"
+"hap","True","2/1/2022 4:20:02 PM"
+"Hapoper","True",
+"hapuser","True","3/4/2013 3:37:59 PM"
+"Harvardroom","True",
+"healthnow01","True",
+"hearusa","True",
+"HERCULES_DEV_ADMIN","True","7/26/2021 3:56:13 PM"
+"HERCULES_QA_ADMIN","True","1/15/2022 8:04:02 PM"
+"hny_mc","True",
+"Hockey","True",
+"hop","True","2/3/2022 10:14:12 PM"
+"horizonblue","True","2/11/2021 12:48:31 AM"
+"hphc_aim","True","1/31/2022 8:01:00 PM"
+"hphc_buck","True","9/28/2019 5:40:26 AM"
+"hphc_claims_user","True","2/4/2022 7:10:07 AM"
+"hphc_download_user","True","2/8/2022 4:36:09 AM"
+"hphc_garity","True","2/6/2022 10:00:05 PM"
+"hphc_IDCards_T","True","11/8/2018 3:49:45 PM"
+"hphc_oa","True","2/1/2022 11:00:28 PM"
+"hphc_sunfire","True","2/7/2022 10:10:52 PM"
+"hphc_ud","True","12/3/2021 3:23:18 PM"
+"hplex_affny","True","7/17/2021 1:04:35 PM"
+"htcomnetadmin","True","3/17/2015 3:29:54 PM"
+"hwtt_ucr","True",
+"IAMAdmin","True","2/5/2022 10:11:00 PM"
+"iamdevadmin","False",
+"iba_affinity","True",
+"IESN_HPHC","True","2/4/2022 4:02:56 PM"
+"ikaadmin","True",
+"ikaadmin","True","4/25/2012 2:32:34 PM"
+"ikacrm02","True",
+"ikaem1","True",
+"ikaev343vault","True",
+"ikahist-ikatest","True","11/21/2017 6:06:15 PM"
+"ikamedpartners","True","1/29/2021 10:09:48 AM"
+"ikamm","True","3/21/2018 6:30:31 PM"
+"ikaschedular","True","2/21/2018 12:30:33 AM"
+"ikaschedular","True","1/31/2022 11:11:11 PM"
+"ikaschedular","True","1/28/2022 2:27:35 PM"
+"ikascheduler","True","2/5/2022 9:03:57 PM"
+"ikascheduler","True","5/22/2021 8:05:05 PM"
+"ikassl_feed","True","2/7/2022 12:15:01 AM"
+"ikasungarddr","True",
+"ikasystems","True","7/20/2021 11:37:55 AM"
+"ikatest","True",
+"ikaupmc","True",
+"ikawbftp","True","4/2/2013 11:03:35 AM"
+"imagenet_affinity","True",
+"independenth","True",
+"Inf_PRD_ADM","True","2/6/2022 12:51:27 AM"
+"Inf_STG_ADM","True",
+"Inf_TST_ADM","True","2/6/2022 12:12:25 AM"
+"IPS_ftpadmin","True","6/6/2013 6:26:03 PM"
+"IPS_sftp","True","6/7/2013 1:29:49 PM"
+"IPS_wsftp_admin","True","6/6/2013 5:52:18 PM"
+"IPS_wsftpadmin","True","6/6/2013 6:09:43 PM"
+"IPS_wsftpuser","True","6/6/2013 9:46:45 PM"
+"IPS_wstfp_admin","True","6/6/2013 5:56:44 PM"
+"IQVS_IKACLAIMSTS1","True",
+"itauser01","True",
+"itest01","True","6/17/2020 2:31:32 PM"
+"itest02","True","6/18/2020 9:48:59 AM"
+"ITest03","True",
+"iyen_sftp","False","9/25/2018 3:11:02 PM"
+"jacksonhp","True",
+"Jira","True","10/30/2020 10:08:00 AM"
+"Jira_backupfailures","True",
+"JIRA_CTM","True","4/26/2018 1:09:32 PM"
+"JIRA_IAM","True","10/30/2020 2:13:08 PM"
+"JIRA_IAMQA","True","7/11/2020 1:06:20 PM"
+"Jira_Veracode","True",
+"jmhp_medicare","True",
+"jpks_affny","True","11/6/2014 8:39:01 AM"
+"jpmc01_affny","True","12/19/2020 4:53:32 AM"
+"jpmc02_affny","True","12/5/2013 3:56:43 PM"
+"k1000-HTTP","True","3/26/2021 3:17:20 PM"
+"kansasappealsgriev","True",
+"kbillington","True","2/10/2020 3:48:58 PM"
+"keys_eschc","True","4/20/2020 8:12:39 AM"
+"keys_hphc","True","4/7/2021 3:40:17 PM"
+"keysprint","True",
+"kmhp","True",
+"kmhp_passport","True","1/5/2012 11:54:36 AM"
+"knowledgebase","True",
+"labcorp","True",
+"ladp-thc-portals","True","11/4/2021 2:59:45 PM"
+"Lasso_COB","True",
+"Lasso_Enrollment","True",
+"Lasso_Recoveries","True",
+"lawson_ghc","True","9/30/2016 10:03:47 AM"
+"lawsonb_ghc","True","9/30/2016 10:07:21 AM"
+"lediGateway","True","10/6/2018 11:38:32 PM"
+"linuxoncall","True",
+"lndmrkh_affny","True","6/25/2021 10:57:16 AM"
+"loadtest","True",
+"localadmin","True","9/19/2018 3:39:32 PM"
+"materialsoversight","True",
+"maximus","True",
+"mcna","True",
+"mdimpct","True","2/26/2016 1:29:41 PM"
+"mdwise","True",
+"medassets","True","2/4/2022 12:13:00 AM"
+"medco","True",
+"medhok_acs","True","4/29/2021 9:18:41 AM"
+"medimpact-claims","True","5/22/2021 8:29:52 PM"
+"medpartnersclaimspro","True","12/12/2020 9:13:16 PM"
+"medpartners-portals","True","12/7/2020 2:29:23 AM"
+"medpartners-portals2","True","4/25/2018 11:29:52 AM"
+"medpartnersstandby","True","5/13/2012 10:28:37 AM"
+"medpartnersstdby","True","7/25/2015 6:04:08 AM"
+"mimecastexceptions","True",
+"mit","True","2/24/2017 1:22:27 PM"
+"momreports","True","1/24/2019 11:55:01 PM"
+"monitor","True",
+"MSADIkaTestUser","True","3/9/2020 2:37:04 PM"
+"MSOL_0f663fdea677","True","4/19/2020 1:57:20 AM"
+"MSOL_e608994d2e19","True","2/8/2022 6:38:00 PM"
+"MUSR_MQADMIN","True",
+"MUSR_MQADMIN","True",
+"NE_Enrollment","True",
+"nia_HPHC","True","2/9/2022 7:03:11 PM"
+"nonsslT","True",
+"odi01_chpw","True","3/30/2021 4:08:53 PM"
+"odi01_scan","True",
+"Office134-2402","True",
+"OPT_CMS","True",
+"Optimum-portals","True","5/8/2021 1:27:07 AM"
+"optum_hphc","True","1/31/2022 9:00:24 AM"
+"optumrx_hphc","True","2/10/2022 8:17:43 AM"
+"oracleoncallsupport","True","1/18/2016 5:54:59 PM"
+"Oxford","True","2/15/2017 12:08:57 PM"
+"Parkview","True","6/23/2016 5:01:45 PM"
+"parkview_cps","True","8/7/2015 8:14:06 AM"
+"parkview-claims","True","3/23/2018 4:14:50 PM"
+"parkview-prh","True",
+"parkview-sby","True","9/18/2015 6:11:26 PM"
+"parkviewstandby","True",
+"parkviewuser","True",
+"passport","True","3/23/2018 4:14:50 PM"
+"passport-d4c","True","6/19/2018 3:15:10 AM"
+"passport-d4c-prod","True",
+"passport-pm","True","2/18/2018 1:15:03 AM"
+"passport-portals","True","2/14/2018 9:52:21 AM"
+"payf_hphc","True","2/6/2022 4:15:29 AM"
+"payformance","True",
+"performrx","True","2/3/2015 3:02:19 AM"
+"performrx-dtm-prod","True","3/23/2018 4:14:48 PM"
+"pgba","True",
+"premeraappealsgrieve","True","12/1/2017 9:56:51 AM"
+"Princeton","True","8/9/2016 2:13:02 PM"
+"priorityh","True",
+"privacyofficial","True","6/21/2017 3:01:21 PM"
+"ProdReplication","True","11/8/2015 9:12:01 PM"
+"protocol","True",
+"prvdradv_chpw","True","11/20/2014 5:46:23 PM"
+"prx-portals","True","2/19/2018 6:00:00 PM"
+"ptso_chpw","True","1/2/2015 5:26:35 PM"
+"pwann_vhphc","True","3/24/2017 2:11:57 PM"
+"pwcika","True","3/24/2014 3:39:51 PM"
+"pwdtaskac","True","1/26/2019 4:59:59 PM"
+"regulatoryoversight","True",
+"reports","True","4/17/2017 11:55:01 PM"
+"reports_admin","True","2/18/2011 6:00:45 AM"
+"rootgw","True","1/6/2016 7:13:27 PM"
+"sa_bcbsm","True",
+"SA_CHERWELL_IKA","True","4/4/2021 9:01:02 PM"
+"sa_claims_reports","True","2/8/2016 11:32:17 AM"
+"sa_pgp","True","7/31/2017 9:42:01 AM"
+"sa_report","True","6/7/2013 1:56:50 PM"
+"sa_sql","True","5/26/2020 12:04:53 AM"
+"sa_webspheremq","True","12/1/2016 5:38:31 AM"
+"salesoversight","True","12/7/2017 11:22:35 AM"
+"sa-mqadmin","True",
+"sa-reporting","True","5/1/2012 2:45:57 PM"
+"sa-tfsssp","True","12/14/2016 12:00:01 AM"
+"sa-voltage","True","12/21/2016 12:09:31 PM"
+"sa-websphereMQ","True","4/19/2017 9:43:44 PM"
+"scan_dba","True","6/26/2018 6:11:41 PM"
+"scan10","True","6/19/2020 1:02:12 PM"
+"scanhP","True","8/14/2021 4:20:06 AM"
+"scanodi","True","9/23/2021 11:15:05 PM"
+"scanonsite-jira","True",
+"scom_config","True","8/15/2017 12:13:36 PM"
+"scom_DataReader","True","8/22/2017 12:13:51 PM"
+"scom_DataWriter","True","8/22/2017 12:13:51 PM"
+"scpt_usraccts","True","4/25/2019 11:02:05 AM"
+"sds","True",
+"sdsthp","True",
+"SecOps_Test","True","6/5/2018 11:40:42 AM"
+"secopstest","True","5/25/2021 1:22:42 PM"
+"secopstest2","True",
+"SecurityAlerts","True",
+"setupuser","True","12/6/2017 10:02:05 AM"
+"SFTNSFTPIKA","True","6/23/2017 8:18:47 AM"
+"sftp_dmn_acnt_dr","True","6/8/2014 10:13:15 AM"
+"sftp_test","True","10/1/2021 10:10:16 AM"
+"sftp_user","True",
+"sgprobe_120","True","10/18/2014 8:00:17 AM"
+"shealth","True",
+"smartds","True",
+"soccerroom","True","3/19/2015 2:56:18 PM"
+"splunkweb","True","11/17/2017 10:52:24 PM"
+"sql_sa","True","10/18/2010 2:19:06 PM"
+"sqladmin","True","2/17/2021 2:00:00 AM"
+"sqlcmdshell","True","5/8/2013 9:28:18 AM"
+"sqlcmdshell","True","2/3/2016 3:33:07 PM"
+"sqlcmdshell","True",
+"sqlcmdshell","True",
+"sqlread","True",
+"sqlread","True","12/16/2010 2:43:56 PM"
+"sqlreportUser","True",
+"sqlserver_ls","True",
+"sqlserverLS","True",
+"sqlserverls","True","4/10/2014 1:46:05 PM"
+"SQLServerLS","True","5/26/2020 12:03:15 AM"
+"sqlserverLS","True","4/11/2014 2:02:03 PM"
+"srv-scmadmin","True","7/6/2021 12:20:39 PM"
+"SSLogShip","True",
+"SSLogShip","True",
+"SSLogShip","True",
+"ssnrinewcards","True",
+"SSRS_LHP","True","5/26/2020 12:03:06 AM"
+"ssrs_reports","True","11/9/2021 7:52:35 AM"
+"ssrs_subs_prod","True","2/7/2022 8:11:19 AM"
+"ssrs_subs_user","True","1/29/2022 8:16:16 PM"
+"techsupport","True","1/12/2016 1:20:52 AM"
+"test","True",

@@ -1,0 +1,27 @@
+SAMaccountName,Domain,Enabled,LastLogonDate
+buildguy,ikasystems.com,True,4/7/2018 9:41:51 PM
+cabjoinme,ikasystems.com,True
+cas_ceedadea795e405d,ikasystems.com,True,4/17/2015 12:47:20 AM
+crm,ikasystems.com,True
+emdeon,ikaservices.com,True
+gatewayrm,ikasystems.com,True
+gg_iisadmin,ikaprod55.com,True
+iesn_hphc,ikaservices.com,True,2/4/2022 4:02:56 PM
+ikaadmin,ikaclaims40.com,True
+ikaadmin,ikaclaims45.com,True,4/25/2012 2:32:34 PM
+ikacrm02,ikastg.com,True
+ikaem1,ikastg.com,True
+ikamm,ikaclaim.com,True,3/21/2018 6:30:31 PM
+itest01,ikasystems.com,True,6/17/2020 2:31:32 PM
+itest02,ikasystems.com,True,6/18/2020 9:48:59 AM
+itest03,ikasystems.com,True
+medimpact-claims,ikastg.com,True,5/22/2021 8:29:52 PM
+sa_bcbsm,ikaprod90.com,True
+twndmlls,ikaservices.com,True,2/2/2017 9:56:42 PM
+vrajagopalan,ikasystems.com,True
+vtest1,ikasystems.com,True,11/19/2018 11:48:5...
+webhostingadmins,ikasystems.com,True
+websense_admin,ikasystems.com,True,12/7/2018 4:15:26 AM
+websphere-mq,ikasystems.com,True
+
+

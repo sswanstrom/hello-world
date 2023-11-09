@@ -1,0 +1,7 @@
+SAMaccountName   Enabled LastLogonDate
+--------------   ------- -------------
+BizTalk_IsoAdmin   True
+biztlkprod_feed    True
+BizTalk_PRD        True  2/6/2022 12:06:44 AM
+BizTalk_TST        True  12/11/2021 9:03:44 PM
+biztalkqa          True

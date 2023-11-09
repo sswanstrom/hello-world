@@ -1,0 +1,45 @@
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASYSTEMS.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASERVICES.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD55.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD60.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD65.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD76.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD87.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD90.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD98.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD110.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD120.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD130.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IPERF194.com  | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIM.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIMS40.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIMS45.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIM50.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASTG.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server ENTCORE.com | Format-Table Name, UserPrincipalName, Enabled
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server SERVICES.ENTCORE.COM | Format-Table Name, UserPrincipalName, Enabled
+
+
+
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server VISIANTCLOUD.COM | Format-Table Name, UserPrincipalName, Enabled
+
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASYSTEMS.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASERVICES.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD55.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD60.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD65.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD76.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD87.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD90.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD98.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD110.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD120.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKAPROD130.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IPERF194.com  | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIM.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIMS40.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIMS45.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKACLAIM50.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server IKASTG.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server ENTCORE.com | Disable-ADAccount
+Get-ADUser -Filter 'Name -like "Eduardo Hernandez"' -server SERVICES.ENTCORE.COM | Disable-ADAccount

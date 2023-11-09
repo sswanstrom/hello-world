@@ -1,0 +1,1 @@
+csvde -l "comment, country, department, description, displayName, distinguishedName, dn, info, lastLogon, lastLogonTimestamp, mail, memberOf, msExchHomeServerName, name, objectCategory, objectClass, operatingSystem, operatingSystemServicePack, operatingSystemVersion, ou, pwdLastSet, sAMAccountName, userAccountControl, userPrincipalName" -f AD_Export_IKASYSTEMS.csv

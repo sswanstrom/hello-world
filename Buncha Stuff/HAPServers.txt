@@ -1,0 +1,11 @@
+MDWWEST01.ikasystems.com
+MPWWCLMEST01V.ikasystems.com
+MDWDSQLEST01.ikasytems.com
+MDWWPST01.ikasystems.com
+MDWDSQLPST01.ikasystems.com
+IKATEST238.ikasystems.com
+MSWWEBHAP01.ikaprod65.com
+ISTGWB478.ikaprod65.com
+ISTGDB475.ikaprod65.com
+IPRDWB454.ikaprod65.com
+MPWDHAP01.ikaprod65.com

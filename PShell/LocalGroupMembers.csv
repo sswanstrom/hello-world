@@ -1,0 +1,16 @@
+ComputerName, LocalGroupName, Status, MemberType, MemberDomain, MemberName
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, Domain Admins
+MIWDCSENT01V, Administrators, SUCCESS, DomainUser, SERVICES, Administrator
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, Nessus Local Access
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, ENTCORE, Enterprise Admins
+MIWDCSENT01V, Administrators, SUCCESS, DomainUser, SERVICES, svc_sqlfdm
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, SQL_DBA_Prod_Local_Admins
+ComputerName, LocalGroupName, Status, MemberType, MemberDomain, MemberName
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, Domain Admins
+MIWDCSENT01V, Administrators, SUCCESS, DomainUser, SERVICES, Administrator
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, Nessus Local Access
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, ENTCORE, Enterprise Admins
+MIWDCSENT01V, Administrators, SUCCESS, DomainUser, SERVICES, svc_sqlfdm
+MIWDCSENT01V, Administrators, SUCCESS, DomainGroup, SERVICES, SQL_DBA_Prod_Local_Admins
+MIWDCSENT01V, Administrators, SUCCESS, DomainUser, SERVICES, SVC_AzureASR
+MIWDCSENT01V, Administrators, SUCCESS, Unknown, Unknown, S-1-5-21-1715567821-436374069-1957994488-28974
